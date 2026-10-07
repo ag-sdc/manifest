@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<manifest>
+  <project name="device/common" remote="aosp" groups="pdk,pdk-cw-fs"/>
+  <project name="LineageOS/android_device_generic_common" path="device/generic/common" groups="pdk"/>
+  <project name="device/generic/x86" remote="aosp" groups="pdk"/>
+  <project name="device/generic/x86_64" remote="aosp" groups="pdk"/>
+  <project name="android_vendor_lineage" path="vendor/lineage" remote="los-tv-x86"/>
+</manifest>

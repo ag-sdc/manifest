@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<manifest>
+  <project name="platform/prebuilts/clang/host/linux-x86" path="prebuilts/clang/host/linux-x86" remote="aosp" groups="pdk,sysui-studio" clone-depth="1"/>
+  <project name="platform/prebuilts/build-tools" path="prebuilts/build-tools" remote="aosp" groups="pdk,sysui-studio" clone-depth="1"/>
+  <project name="platform/prebuilts/jdk/jdk17" path="prebuilts/jdk/jdk17" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/prebuilts/jdk/jdk11" path="prebuilts/jdk/jdk11" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/prebuilts/jdk/jdk8" path="prebuilts/jdk/jdk8" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/prebuilts/misc" path="prebuilts/misc" remote="aosp" groups="pdk,sysui-studio" clone-depth="1"/>
+  <project name="platform/prebuilts/ndk" path="prebuilts/ndk" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/prebuilts/sdk" path="prebuilts/sdk" remote="aosp" groups="pdk,sysui-studio" clone-depth="1"/>
+  <project name="platform/prebuilts/vndk/v30" path="prebuilts/vndk/v30" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/prebuilts/vndk/v31" path="prebuilts/vndk/v31" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/prebuilts/vndk/v32" path="prebuilts/vndk/v32" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/prebuilts/vndk/v33" path="prebuilts/vndk/v33" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/prebuilts/vndk/v34" path="prebuilts/vndk/v34" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="android_prebuilts_abi-dumps_vndk" path="prebuilts/abi-dumps/vndk" remote="los-tv-x86" groups="pdk-cw-fs,pdk-fs"/>
+</manifest>
