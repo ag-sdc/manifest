@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<manifest>
+  <project name="bootable_aaropa" path="bootable/aaropa" remote="los-tv-x86"/>
+  <project name="android_bootable_recovery" path="bootable/recovery" remote="los-tv-x86" groups="pdk"/>
+  <project name="android_device_generic_x86_64_tv" path="device/generic/x86_64_tv" remote="los-tv-x86" sync-s="true"/>
+  <project name="android_device_google_atv" path="device/google/atv" remote="los-tv-x86" groups="broadcom_pdk,device,generic_fs,pdk"/>
+  <project name="android_device_lineage_atv" path="device/lineage/atv" remote="los-tv-x86"/>
+  <project name="device/common" remote="aosp" groups="pdk,pdk-cw-fs"/>
+  <project name="LineageOS/android_device_generic_common" path="device/generic/common" groups="pdk"/>
+  <project name="device/generic/x86" remote="aosp" groups="pdk"/>
+  <project name="device/generic/x86_64" remote="aosp" groups="pdk"/>
+  <project name="android_vendor_lineage" path="vendor/lineage" remote="los-tv-x86"/>
+  <project name="kerNel_common" path="kernel/x86/common" remote="ag-github" revision="hm/crimson" sync-s="true"/>
+  <project name="kernel_cOmmon" path="kernel/x86/surface" remote="ag-github" revision="hm/crimson-surface" sync-s="true"/>
+  <project name="kernel-zenith" path="kernel/x86/zenith" remote="ag-github" revision="6.18" sync-s="true"/>
+  <project name="exTernal_kernel-drivers" path="external/kernel-drivers" remote="ag-github" revision="6.6" sync-s="true"/>
+  <project name="external_keRnel-drivers" path="external/kernel-drivers-zenith" remote="ag-github" revision="zenith" sync-s="true"/>
+</manifest>
