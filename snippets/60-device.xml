@@ -1,8 +1,8 @@
 <?xml version="1.0" ?>
 <manifest>
   <project name="bootable_aaropa" path="bootable/aaropa" remote="los-tv-x86"/>
-  <project name="android_bootable_recovery" path="bootable/recovery" remote="los-tv-x86" groups="pdk"/>
-  <project name="android_device_generic_x86_64_tv" path="device/generic/x86_64_tv" remote="los-tv-x86" sync-s="true"/>
+  <project name="android_bootable_recovery" path="bootable/recovery" remote="ag-sdc" revision="main" groups="pdk"/>
+  <project name="android_device_generic_x86_64_tv" path="device/generic/x86_64_tv" remote="ag-sdc" revision="main" sync-s="true"/>
   <project name="android_device_google_atv" path="device/google/atv" remote="los-tv-x86" groups="broadcom_pdk,device,generic_fs,pdk"/>
   <project name="android_device_lineage_atv" path="device/lineage/atv" remote="los-tv-x86"/>
   <project name="device/common" remote="aosp" groups="pdk,pdk-cw-fs"/>
