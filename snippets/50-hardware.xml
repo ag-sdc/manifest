@@ -44,7 +44,6 @@
   <project name="spdlog" path="external/spdlog" remote="ag-github" revision="v1.x"/>
   <project name="fmt" path="external/fmtlib11" remote="ag-github" revision="android"/>
   <project name="eigen" path="external/eigen3" remote="ag-github" revision="android"/>
-  <project name="external_dialog" path="external/dialog" remote="ag-github" revision="20240619"/>
   <project name="external_dmidecode" path="external/dmidecode" remote="ag-github" revision="3.5"/>
   <project name="external_efibootmgr" path="external/efibootmgr" remote="ag-github" revision="main"/>
   <project name="external_efivar" path="external/efivar" remote="ag-github" revision="main"/>

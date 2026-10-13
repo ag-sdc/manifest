@@ -21,7 +21,7 @@
   <project name="platform/external/brotli" path="external/brotli" remote="aosp" groups="pdk"/>
   <project name="android_external_nano" path="external/nano" remote="ag-github" revision="7.2"/>
   <project name="android_external_ntfs-3g" path="external/ntfs-3g" remote="ag-github" revision="20240316"/>
-  <project name="LineageOS/android_external_wpa_supplicant_8" path="external/wpa_supplicant_8" groups="pdk"/>
+  <project name="LineageOS/android_external_wpa_supplicant_8" path="external/wpa_supplicant" groups="pdk"/>
   <project name="platform/external/iw" path="external/iw" remote="aosp" groups="pdk"/>
   <project name="LineageOS/android_external_openssh" path="external/openssh" groups="pdk"/>
   <project name="platform/external/tcpdump" path="external/tcpdump" remote="aosp" groups="pdk"/>
