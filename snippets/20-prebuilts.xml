@@ -32,17 +32,17 @@
   <project name="prebuilts_target_protobuf" path="prebuilts/target/external/protobuf" remote="ag-sdc-ci" revision="32" groups="pdk"/>
   <project name="prebuilts_target_harfbuzz_ng" path="prebuilts/target/external/harfbuzz_ng" remote="ag-sdc-ci" revision="32" groups="pdk"/>
   <project name="prebuilts_target_runtime" path="prebuilts/target/bionic/apex" remote="ag-sdc-ci" revision="32" groups="pdk"/>
-  <project name="prebuilts_host_apache-commons-io" path="prebuilts/host/apache-commons-io" remote="ag-sdc-ci" revision="32" groups="pdk"/>
-  <project name="prebuilts_host_apache-commons-lang" path="prebuilts/host/apache-commons-lang" remote="ag-sdc-ci" revision="32" groups="pdk"/>
-  <project name="prebuilts_host_apache-commons-math" path="prebuilts/host/apache-commons-math" remote="ag-sdc-ci" revision="32" groups="pdk"/>
-  <project name="prebuilts_host_easymock" path="prebuilts/host/easymock" remote="ag-sdc-ci" revision="32" groups="pdk"/>
-  <project name="prebuilts_host_guava" path="prebuilts/host/guava" remote="ag-sdc-ci" revision="32" groups="pdk"/>
-  <project name="prebuilts_host_javapoet" path="prebuilts/host/javapoet" remote="ag-sdc-ci" revision="32" groups="pdk"/>
-  <project name="prebuilts_host_jcommander" path="prebuilts/host/jcommander" remote="ag-sdc-ci" revision="32" groups="pdk"/>
-  <project name="prebuilts_host_jsr305" path="prebuilts/host/jsr305" remote="ag-sdc-ci" revision="32" groups="pdk"/>
-  <project name="prebuilts_host_objenesis" path="prebuilts/host/objenesis" remote="ag-sdc-ci" revision="32" groups="pdk"/>
-  <project name="prebuilts_host_ow2-asm" path="prebuilts/host/ow2-asm" remote="ag-sdc-ci" revision="32" groups="pdk"/>
-  <project name="prebuilts_host_xz-java" path="prebuilts/host/xz-java" remote="ag-sdc-ci" revision="32" groups="pdk"/>
+  <project name="prebuilts_host_apache-commons-io" path="prebuilts/host/apache-commons-io" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
+  <project name="prebuilts_host_apache-commons-lang" path="prebuilts/host/apache-commons-lang" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
+  <project name="prebuilts_host_apache-commons-math" path="prebuilts/host/apache-commons-math" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
+  <project name="prebuilts_host_easymock" path="prebuilts/host/easymock" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
+  <project name="prebuilts_host_guava" path="prebuilts/host/guava" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
+  <project name="prebuilts_host_javapoet" path="prebuilts/host/javapoet" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
+  <project name="prebuilts_host_jcommander" path="prebuilts/host/jcommander" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
+  <project name="prebuilts_host_jsr305" path="prebuilts/host/jsr305" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
+  <project name="prebuilts_host_objenesis" path="prebuilts/host/objenesis" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
+  <project name="prebuilts_host_ow2-asm" path="prebuilts/host/ow2-asm" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
+  <project name="prebuilts_host_xz-java" path="prebuilts/host/xz-java" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
   <project name="prebuilts_target_libchrome" path="prebuilts/target/hardware/libchrome" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_libevent" path="prebuilts/target/external/libevent" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_modp_b64" path="prebuilts/target/external/modp_b64" remote="ag-sdc-ci" revision="34" groups="pdk"/>
