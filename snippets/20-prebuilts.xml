@@ -1,10 +1,17 @@
 <?xml version="1.0" ?>
 <manifest>
-  <project name="platform/prebuilts/clang/host/linux-x86" path="prebuilts/clang/host/linux-x86" remote="aosp" groups="pdk,sysui-studio" clone-depth="1"/>
+  <project name="prebuilts_host_clang" path="prebuilts/host/clang/host/linux-x86" remote="ag-sdc-ci" revision="universal" groups="pdk,sysui-studio">
+    <linkfile src="." dest="prebuilts/clang/host/linux-x86"/>
+  </project>
+  <project name="prebuilts_host_clang-r510928" path="prebuilts/host/clang/host/linux-x86/clang-r510928" remote="ag-sdc-ci" revision="universal" groups="pdk,sysui-studio"/>
   <project name="platform/prebuilts/build-tools" path="prebuilts/build-tools" remote="aosp" groups="pdk,sysui-studio" clone-depth="1"/>
-  <project name="platform/prebuilts/jdk/jdk17" path="prebuilts/jdk/jdk17" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="prebuilts_host_jdk17" path="prebuilts/host/jdk/jdk17" remote="ag-sdc-ci" revision="universal" groups="pdk">
+    <linkfile src="." dest="prebuilts/jdk/jdk17"/>
+  </project>
   <project name="platform/prebuilts/jdk/jdk11" path="prebuilts/jdk/jdk11" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/prebuilts/jdk/jdk8" path="prebuilts/jdk/jdk8" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="prebuilts_host_jdk8" path="prebuilts/host/jdk/jdk8" remote="ag-sdc-ci" revision="universal" groups="pdk">
+    <linkfile src="." dest="prebuilts/jdk/jdk8"/>
+  </project>
   <project name="platform/prebuilts/misc" path="prebuilts/misc" remote="aosp" groups="pdk,sysui-studio" clone-depth="1"/>
   <project name="platform/prebuilts/ndk" path="prebuilts/ndk" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/prebuilts/sdk" path="prebuilts/sdk" remote="aosp" groups="pdk,sysui-studio" clone-depth="1"/>
