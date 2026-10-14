@@ -2,7 +2,6 @@
 <manifest>
   <project name="android_hardware_interfaces" path="hardware/interfaces" remote="los-tv-x86" groups="pdk,sysui-studio"/>
   <project name="android_system_hardware_interfaces" path="system/hardware/interfaces" remote="los-tv-x86" groups="pdk,sysui-studio"/>
-  <project name="LineageOS/android_hardware_libhardware" path="hardware/libhardware" groups="pdk"/>
   <project name="platform/hardware/libhardware_legacy" path="hardware/libhardware_legacy" remote="aosp" groups="pdk"/>
   <project name="LineageOS/android_hardware_lineage_compat" path="hardware/lineage/compat"/>
   <project name="LineageOS/android_hardware_lineage_interfaces" path="hardware/lineage/interfaces"/>
@@ -17,8 +16,6 @@
   <project name="platform_hardware_liblights" path="hardware/liblights" remote="ag-github" revision="u-x86"/>
   <project name="platform_hardware_libsensors" path="hardware/libsensors" remote="ag-github" revision="14-x86"/>
   <project name="hardware_intel_libsensors" path="hardware/intel/libsensors" remote="ag-github" revision="u-x86"/>
-  <project name="hardware_libbt-vendor-intel" path="hardware/libbt-vendor-intel" remote="ag-github" revision="13-x86"/>
-  <project name="platform_hardware_gps" path="hardware/gps" remote="ag-github" revision="u-x86"/>
   <project name="vendor_intel_hardware_interfaces" path="vendor/intel/hardware/interfaces" remote="ag-github" revision="14-x86" sync-s="true"/>
   <project name="external_thermal_daemon" path="external/thermal_daemon" remote="ag-github" revision="master"/>
   <project name="external_drm_framebuffer" path="external/drm_framebuffer" remote="ag-github" revision="u-x86"/>
@@ -27,8 +24,6 @@
   <project name="external_drm_hwcomposer" path="external/drm_hwcomposer_celadon" remote="ag-github" revision="celadon"/>
   <project name="external_drmfb-composer" path="external/drmfb-composer" remote="ag-github" revision="u-x86"/>
   <project name="external_gbm_gralloc" path="external/gbm_gralloc" remote="ag-github" revision="main"/>
-  <project name="platform_external_libdrm" path="external/libdrm" remote="ag-github" revision="2.4.131/u-x86"/>
-  <project name="external_mesa" path="external/mesa" remote="ag-github" revision="26.0/main"/>
   <project name="external_minigbm" path="external/minigbm" remote="ag-github" revision="14-x86"/>
   <project name="external_llvm-project" path="external/llvm-project" remote="ag-github" revision="release_22.x"/>
   <project name="external_stagefright-plugins" path="external/stagefright-plugins" remote="ag-github" revision="14-x86/ffmpeg-7.1"/>
@@ -42,17 +37,11 @@
   <project name="CLI11" path="external/CLI11" remote="ag-github" revision="aosp"/>
   <project name="GSL" path="external/Microsoft-GSL" remote="ag-github" revision="aosp"/>
   <project name="spdlog" path="external/spdlog" remote="ag-github" revision="v1.x"/>
-  <project name="fmt" path="external/fmtlib11" remote="ag-github" revision="android"/>
   <project name="eigen" path="external/eigen3" remote="ag-github" revision="android"/>
   <project name="external_dmidecode" path="external/dmidecode" remote="ag-github" revision="3.5"/>
-  <project name="external_efibootmgr" path="external/efibootmgr" remote="ag-github" revision="main"/>
   <project name="external_efivar" path="external/efivar" remote="ag-github" revision="main"/>
-  <project name="external_evtest" path="external/evtest" remote="ag-github" revision="master"/>
-  <project name="android_external_libncurses" path="external/libncurses" remote="ag-github" revision="6.5"/>
   <project name="external_pciutils" path="external/pciutils" remote="ag-github" revision="master"/>
   <project name="external_s2tc" path="external/s2tc" remote="ag-github" revision="r-x86"/>
-  <project name="external_tree" path="external/tree" remote="ag-gitlab" revision="u-x86"/>
-  <project name="external_hcitools" path="external/hcitools" remote="ag-github" revision="13-x86"/>
   <project name="android_external_swiftshader" path="external/swiftshader" remote="ag-github" revision="14-x86" groups="pdk"/>
   <project name="glodroid_aospext" path="glodroid/aospext" remote="ag-github" revision="main"/>
   <project name="device_generic_firmware" path="device/generic/firmware" remote="ag-github" revision="main"/>
