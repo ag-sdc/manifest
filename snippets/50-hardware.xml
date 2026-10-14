@@ -58,4 +58,6 @@
   <project name="device_generic_firmware" path="device/generic/firmware" remote="ag-github" revision="main"/>
   <project name="vendor_silead_proprietary_firmware" path="vendor/silead/proprietary/firmware" remote="ag-github" revision="master"/>
   <project name="platform/kernel/configs" path="kernel/configs" remote="aosp" groups="pdk"/>
+  <project name="platform/hardware/google/interfaces" path="hardware/google/interfaces" remote="aosp" groups="pdk"/>
+
 </manifest>
