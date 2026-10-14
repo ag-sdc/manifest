@@ -22,7 +22,7 @@
   <project name="platform/prebuilts/vndk/v34" path="prebuilts/vndk/v34" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="android_prebuilts_abi-dumps_vndk" path="prebuilts/abi-dumps/vndk" remote="los-tv-x86" groups="pdk-cw-fs,pdk-fs"/>
   <project name="waydroid/android_prebuilts_mesa-tools" path="prebuilts/mesa-build-deps" remote="ghub" revision="main"/>
-  <project name="platform/prebuilts/go" path="prebuilts/go" remote="aosp" groups="pdk,sysui-studio" clone-depth="1"/>
+  <project name="platform/prebuilts/go/linux-x86" path="prebuilts/go/linux-x86" remote="aosp" groups="pdk,sysui-studio" clone-depth="1"/>
   <project name="platform/prebuilts/bazel/common" path="prebuilts/bazel/common" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/prebuilts/bazel/linux-x86_64" path="prebuilts/bazel/linux-x86_64" remote="aosp" groups="pdk" clone-depth="1"/>
 
