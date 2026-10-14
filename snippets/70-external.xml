@@ -42,5 +42,6 @@
   <project name="platform/external/go-cmp" path="external/go-cmp" remote="aosp" groups="pdk"/>
   <project name="platform/external/golang-protobuf" path="external/golang-protobuf" remote="aosp" groups="pdk"/>
   <project name="platform/external/starlark-go" path="external/starlark-go" remote="aosp" groups="pdk"/>
+  <project name="platform/external/spdx-tools" path="external/spdx-tools" remote="aosp" groups="pdk"/>
   <project name="platform/toolchain/pgo-profiles" path="toolchain/pgo-profiles" remote="aosp" groups="pdk"/>
 </manifest>
