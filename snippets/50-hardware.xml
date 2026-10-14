@@ -5,4 +5,5 @@
   <project name="platform/hardware/libhardware_legacy" path="hardware/libhardware_legacy" remote="aosp" groups="pdk"/>
   <project name="LineageOS/android_hardware_lineage_compat" path="hardware/lineage/compat"/>
   <project name="LineageOS/android_hardware_lineage_interfaces" path="hardware/lineage/interfaces"/>
+  <project name="platform/kernel/configs" path="kernel/configs" remote="aosp" groups="pdk"/>
 </manifest>
