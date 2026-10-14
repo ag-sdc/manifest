@@ -10,9 +10,4 @@
   <project name="device/generic/x86" remote="aosp" groups="pdk"/>
   <project name="device/generic/x86_64" remote="aosp" groups="pdk"/>
   <project name="android_vendor_lineage" path="vendor/lineage" remote="los-tv-x86"/>
-  <project name="kerNel_common" path="kernel/x86/common" remote="ag-github" revision="hm/crimson" sync-s="true"/>
-  <project name="kernel_cOmmon" path="kernel/x86/surface" remote="ag-github" revision="hm/crimson-surface" sync-s="true"/>
-  <project name="kernel-zenith" path="kernel/x86/zenith" remote="ag-github" revision="6.18" sync-s="true"/>
-  <project name="exTernal_kernel-drivers" path="external/kernel-drivers" remote="ag-github" revision="6.6" sync-s="true"/>
-  <project name="external_keRnel-drivers" path="external/kernel-drivers-zenith" remote="ag-github" revision="zenith" sync-s="true"/>
 </manifest>
