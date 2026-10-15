@@ -75,7 +75,9 @@
   <project name="prebuilts_target_libprocinfo" path="prebuilts/target/system/libprocinfo" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_libziparchive" path="prebuilts/target/system/libziparchive" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_pcre" path="prebuilts/target/external/pcre" remote="ag-sdc-ci" revision="34" groups="pdk"/>
-  <project name="prebuilts_target_core" path="prebuilts/target/system/core" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_core" path="prebuilts/target/system/core" remote="ag-sdc-ci" revision="34" groups="pdk">
+    <linkfile src="fastboot" dest="system/core/fastboot"/>
+  </project>
   <project name="prebuilts_target_libbase" path="prebuilts/target/system/libbase" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_vendor_graphics_mesa_links" path="prebuilts/target/vendor_graphics_mesa_links" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
   <project name="prebuilts_target_fmtlib" path="prebuilts/target/external/fmtlib" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
