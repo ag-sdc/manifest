@@ -92,4 +92,6 @@
   <project name="platform/external/wayland" path="external/wayland" remote="aosp" groups="pdk"/>
   <project name="platform/external/wayland-protocols" path="external/wayland-protocols" remote="aosp" groups="pdk"/>
   <project name="platform/external/apache-http" path="external/apache-http" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/lz4" path="external/lz4" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/open-dice" path="external/open-dice" remote="aosp" groups="pdk" clone-depth="1"/>
 </manifest>
