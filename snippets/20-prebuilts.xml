@@ -62,6 +62,7 @@
   <project name="prebuilts_target_dagger2" path="prebuilts/target/external/dagger2" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_error_prone" path="prebuilts/target/external/error_prone" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_gson" path="prebuilts/target/external/gson" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_guava" path="prebuilts/target/external/guava" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_coroutines" path="prebuilts/target/external/kotlinx.coroutines" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_okhttp" path="prebuilts/target/external/okhttp" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_okio" path="prebuilts/target/external/okio" remote="ag-sdc-ci" revision="34" groups="pdk"/>
