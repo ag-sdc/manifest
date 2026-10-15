@@ -22,6 +22,7 @@
   <project name="LineageOS/android_packages_modules_Connectivity" path="packages/modules/Connectivity" groups="pdk-cw-fs,pdk-fs"/>
   <project name="LineageOS/android_packages_modules_Wifi" path="packages/modules/Wifi" groups="pdk-cw-fs,pdk-fs,sysui-studio"/>
   <project name="LineageOS/android_packages_modules_Permission" path="packages/modules/Permission" groups="pdk-cw-fs,pdk-fs"/>
+  <project name="platform/packages/modules/OnDevicePersonalization" path="packages/modules/OnDevicePersonalization" remote="aosp" groups="pdk-cw-fs,pdk-fs" clone-depth="1"/>
   <project name="LineageOS/android_packages_modules_common" path="packages/modules/common" groups="pdk-cw-fs,pdk-fs"/>
   <project name="platform/packages/modules/StatsD" path="packages/modules/StatsD" remote="aosp" groups="pdk-cw-fs,pdk-fs"/>
   <project name="LineageOS/android_packages_modules_CellBroadcastService" path="packages/modules/CellBroadcastService" groups="pdk"/>
