@@ -94,4 +94,11 @@
   <project name="platform/external/apache-http" path="external/apache-http" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/lz4" path="external/lz4" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/open-dice" path="external/open-dice" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/libepoxy" path="external/libepoxy" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/virglrenderer" path="external/virglrenderer" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/zstd" path="external/zstd" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/lzma" path="external/lzma" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/libcppbor" path="external/libcppbor" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/libtextclassifier" path="external/libtextclassifier" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/webrtc" path="external/webrtc" remote="aosp" groups="pdk" clone-depth="1"/>
 </manifest>
