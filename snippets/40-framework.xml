@@ -58,4 +58,6 @@
   <project name="LineageOS/android_packages_services_Car" path="packages/services/Car" groups="pdk-cw-fs,pdk-fs"/>
   <project name="platform/frameworks/opt/car/services" path="frameworks/opt/car/services" remote="aosp" groups="pdk-cw-fs,pdk-fs" clone-depth="1"/>
   <project name="platform/packages/modules/GeoTZ" path="packages/modules/GeoTZ" remote="aosp" groups="pdk-cw-fs,pdk-fs" clone-depth="1"/>
+  <project name="platform/packages/modules/AdServices" path="packages/modules/AdServices" remote="aosp" groups="pdk-cw-fs,pdk-fs,sysui-studio" clone-depth="1"/>
+  <project name="platform/packages/modules/Uwb" path="packages/modules/Uwb" remote="aosp" groups="pdk-cw-fs,pdk-fs" clone-depth="1"/>
 </manifest>

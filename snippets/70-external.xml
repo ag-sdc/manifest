@@ -88,4 +88,8 @@
   <project name="platform/external/kotlinpoet" path="external/kotlinpoet" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/fec" path="external/fec" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/crosvm" path="external/crosvm" remote="aosp" groups="pdk"/>
+  <project name="platform/external/libffi" path="external/libffi" remote="aosp" groups="pdk"/>
+  <project name="platform/external/wayland" path="external/wayland" remote="aosp" groups="pdk"/>
+  <project name="platform/external/wayland-protocols" path="external/wayland-protocols" remote="aosp" groups="pdk"/>
+  <project name="platform/external/apache-http" path="external/apache-http" remote="aosp" groups="pdk" clone-depth="1"/>
 </manifest>
