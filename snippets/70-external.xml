@@ -71,4 +71,21 @@
   <project name="platform/external/junit-params" path="external/junit-params" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/tagsoup" path="external/tagsoup" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/google-java-format" path="external/google-java-format" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/jsoncpp" path="external/jsoncpp" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/libusb" path="external/libusb" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/tinyalsa" path="external/tinyalsa" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/zopfli" path="external/zopfli" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/apache-commons-compress" path="external/apache-commons-compress" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="LineageOS/android_external_avb" path="external/avb" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/tinyxml2" path="external/tinyxml2" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/OpenCSD" path="external/OpenCSD" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/sonivox" path="external/sonivox" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/flatbuffers" path="external/flatbuffers" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/google-benchmark" path="external/google-benchmark" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/gwp_asan" path="external/gwp_asan" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/grpc-grpc" path="external/grpc-grpc" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="LineageOS/android_external_arm-trusted-firmware" path="external/arm-trusted-firmware" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/kotlinpoet" path="external/kotlinpoet" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/fec" path="external/fec" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/crosvm" path="external/crosvm" remote="aosp" groups="pdk"/>
 </manifest>
