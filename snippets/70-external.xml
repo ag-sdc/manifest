@@ -33,9 +33,6 @@
   <project name="platform/external/jarjar" path="external/jarjar" remote="aosp" groups="pdk"/>
   <project name="platform/platform_testing" path="platform_testing" remote="aosp" groups="pdk"/>
   <project name="platform/cts" path="cts" remote="aosp" groups="cts,pdk-cw-fs,pdk-fs" clone-depth="1"/>
-  <project name="platform/tools/tradefederation" path="tools/tradefederation/core" remote="aosp" groups="pdk,tradefed" clone-depth="1"/>
-  <project name="platform/tools/tradefederation/contrib" path="tools/tradefederation/contrib" remote="aosp" groups="pdk,tradefed" clone-depth="1"/>
-  <project name="platform/tools/tradefederation/prebuilts" path="tools/tradefederation/prebuilts" remote="aosp" groups="pdk,tradefed" clone-depth="1"/>
   <project name="platform/external/junit" path="external/junit" remote="aosp" groups="pdk-cw-fs,pdk-fs" clone-depth="1"/>
   <project name="platform/external/truth" path="external/truth" remote="aosp" groups="pdk-cw-fs,pdk-fs" clone-depth="1"/>
   <project name="platform/external/hamcrest" path="external/hamcrest" remote="aosp" groups="pdk-cw-fs,pdk-fs" clone-depth="1"/>
@@ -83,7 +80,9 @@
   <project name="platform/external/flatbuffers" path="external/flatbuffers" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/google-benchmark" path="external/google-benchmark" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/gwp_asan" path="external/gwp_asan" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/external/grpc-grpc" path="external/grpc-grpc" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/gflags" path="external/gflags" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/eigen" path="external/eigen" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/tensorflow" path="external/tensorflow" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="LineageOS/android_external_arm-trusted-firmware" path="external/arm-trusted-firmware" groups="pdk" clone-depth="1"/>
   <project name="platform/external/kotlinpoet" path="external/kotlinpoet" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/fec" path="external/fec" remote="aosp" groups="pdk" clone-depth="1"/>
