@@ -63,4 +63,7 @@
   <project name="platform/external/antlr" path="external/antlr" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/apache-commons-bcel" path="external/apache-commons-bcel" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/escapevelocity" path="external/escapevelocity" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/robolectric" path="external/robolectric" remote="aosp" groups="pdk-cw-fs,pdk-fs,sysui-studio" clone-depth="1"/>
+  <project name="platform/external/javassist" path="external/javassist" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/snakeyaml" path="external/snakeyaml" remote="aosp" groups="pdk" clone-depth="1"/>
 </manifest>

@@ -26,4 +26,5 @@
   <project name="platform/dalvik" path="dalvik" remote="aosp" groups="pdk-cw-fs,pdk-fs"/>
   <project name="LineageOS/android_libcore" path="libcore" groups="pdk"/>
   <project name="LineageOS/android_development" path="development" groups="developers,pdk-cw-fs,pdk-fs"/>
+  <project name="platform/sdk" path="sdk" remote="aosp" groups="pdk-cw-fs,pdk-fs" clone-depth="1"/>
 </manifest>
