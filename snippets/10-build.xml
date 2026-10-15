@@ -28,4 +28,5 @@
   <project name="LineageOS/android_development" path="development" groups="developers,pdk-cw-fs,pdk-fs"/>
   <project name="platform/sdk" path="sdk" remote="aosp" groups="pdk-cw-fs,pdk-fs" clone-depth="1"/>
   <project name="platform/tools/asuite" path="tools/asuite" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/tools/apksig" path="tools/apksig" remote="aosp" groups="pdk" clone-depth="1"/>
 </manifest>
