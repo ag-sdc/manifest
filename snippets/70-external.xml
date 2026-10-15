@@ -60,4 +60,7 @@
   <project name="platform/external/jackson-annotations" path="external/jackson-annotations" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/jackson-core" path="external/jackson-core" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/jackson-databind" path="external/jackson-databind" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/antlr" path="external/antlr" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/apache-commons-bcel" path="external/apache-commons-bcel" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/escapevelocity" path="external/escapevelocity" remote="aosp" groups="pdk" clone-depth="1"/>
 </manifest>

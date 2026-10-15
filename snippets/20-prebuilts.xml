@@ -62,7 +62,9 @@
   <project name="prebuilts_target_icu" path="prebuilts/target/external/icu" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_logging" path="prebuilts/target/system/logging" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_dagger2" path="prebuilts/target/external/dagger2" remote="ag-sdc-ci" revision="34" groups="pdk"/>
-  <project name="prebuilts_target_error_prone" path="prebuilts/target/external/error_prone" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_error_prone" path="prebuilts/target/external/error_prone" remote="ag-sdc-ci" revision="34" groups="pdk">
+    <linkfile src="." dest="external/error_prone"/>
+  </project>
   <project name="prebuilts_target_gson" path="prebuilts/target/external/gson" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_guava" path="prebuilts/target/external/guava" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_coroutines" path="prebuilts/target/external/kotlinx.coroutines" remote="ag-sdc-ci" revision="34" groups="pdk"/>
