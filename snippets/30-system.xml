@@ -2,7 +2,6 @@
 <manifest>
   <project name="android_system_media" path="system/media" remote="los-tv-x86" groups="pdk"/>
   <project name="android_system_apex" path="system/apex" remote="ag-sdc" revision="main" groups="pdk"/>
-  <project name="platform/system/chre" path="system/chre" remote="aosp" groups="pdk"/>
   <project name="android_system_linkerconfig" path="system/linkerconfig" remote="los-tv-x86" groups="pdk"/>
   <project name="android_system_vold" path="system/vold" remote="los-tv-x86" groups="pdk"/>
   <project name="platform/system/tools/aidl" path="system/tools/aidl" remote="aosp" groups="pdk"/>

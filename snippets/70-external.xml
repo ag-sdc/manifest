@@ -31,5 +31,5 @@
   <project name="toolchain/pgo-profiles" path="toolchain/pgo-profiles" remote="aosp" groups="pdk"/>
   <project name="platform/external/bazel-skylib" path="external/bazel-skylib" remote="aosp" groups="pdk"/>
   <project name="platform/external/jarjar" path="external/jarjar" remote="aosp" groups="pdk"/>
-  <project name="platform/cts" path="cts" remote="aosp" groups="pdk"/>
+  <project name="platform/platform_testing" path="platform_testing" remote="aosp" groups="pdk"/>
 </manifest>
