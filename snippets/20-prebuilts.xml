@@ -39,7 +39,6 @@
   <project name="prebuilts_host_apache-commons-lang" path="prebuilts/host/external/apache-commons-lang" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
   <project name="prebuilts_host_apache-commons-math" path="prebuilts/host/external/apache-commons-math" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
   <project name="prebuilts_host_easymock" path="prebuilts/host/external/easymock" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
-  <project name="prebuilts_host_guava" path="prebuilts/host/external/guava" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
   <project name="prebuilts_host_javapoet" path="prebuilts/host/external/javapoet" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
   <project name="prebuilts_host_jcommander" path="prebuilts/host/external/jcommander" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
   <project name="prebuilts_host_jsr305" path="prebuilts/host/external/jsr305" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
