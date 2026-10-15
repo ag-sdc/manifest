@@ -7,5 +7,6 @@
   <project name="LineageOS/android_hardware_lineage_interfaces" path="hardware/lineage/interfaces"/>
   <project name="platform/hardware/google/interfaces" path="hardware/google/interfaces" remote="aosp" groups="pdk"/>
   <project name="platform/hardware/google/pixel" path="hardware/google/pixel" remote="aosp" groups="pdk"/>
+  <project name="platform/hardware/google/gfxstream" path="hardware/google/gfxstream" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="kernel/configs" path="kernel/configs" remote="aosp" groups="pdk"/>
 </manifest>
