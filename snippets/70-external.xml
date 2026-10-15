@@ -46,4 +46,6 @@
   <project name="platform/external/guice" path="external/guice" remote="aosp" groups="pdk-cw-fs,pdk-fs" clone-depth="1"/>
   <project name="platform/external/javaparser" path="external/javaparser" remote="aosp" groups="pdk-cw-fs,pdk-fs" clone-depth="1"/>
   <project name="platform/external/s2-geometry-library-java" path="external/s2-geometry-library-java" remote="aosp" groups="pdk-cw-fs,pdk-fs" clone-depth="1"/>
+  <project name="platform/external/grpc-grpc-java" path="external/grpc-grpc-java" remote="aosp" groups="pdk,tradefed" clone-depth="1"/>
+  <project name="platform/external/opencensus-java" path="external/opencensus-java" remote="aosp" groups="pdk,tradefed" clone-depth="1"/>
 </manifest>
