@@ -30,4 +30,5 @@
   <project name="platform/system/teeui" path="system/teeui" remote="aosp" groups="pdk"/>
   <project name="LineageOS/android_system_timezone" path="system/timezone" groups="pdk"/>
   <project name="platform/system/unwinding" path="system/unwinding" remote="aosp" groups="pdk"/>
+  <project name="platform/system/librustutils" path="system/librustutils" remote="aosp" groups="pdk"/>
 </manifest>

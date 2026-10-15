@@ -32,4 +32,17 @@
   <project name="platform/external/bazel-skylib" path="external/bazel-skylib" remote="aosp" groups="pdk"/>
   <project name="platform/external/jarjar" path="external/jarjar" remote="aosp" groups="pdk"/>
   <project name="platform/platform_testing" path="platform_testing" remote="aosp" groups="pdk"/>
+  <project name="platform/tools/tradefederation" path="tools/tradefederation/core" remote="aosp" groups="pdk,tradefed" clone-depth="1"/>
+  <project name="platform/tools/tradefederation/contrib" path="tools/tradefederation/contrib" remote="aosp" groups="pdk,tradefed" clone-depth="1"/>
+  <project name="platform/tools/tradefederation/prebuilts" path="tools/tradefederation/prebuilts" remote="aosp" groups="pdk,tradefed" clone-depth="1"/>
+  <project name="platform/external/junit" path="external/junit" remote="aosp" groups="pdk-cw-fs,pdk-fs" clone-depth="1"/>
+  <project name="platform/external/truth" path="external/truth" remote="aosp" groups="pdk-cw-fs,pdk-fs" clone-depth="1"/>
+  <project name="platform/external/hamcrest" path="external/hamcrest" remote="aosp" groups="pdk-cw-fs,pdk-fs" clone-depth="1"/>
+  <project name="platform/external/testng" path="external/testng" remote="aosp" groups="pdk-cw-fs,pdk-fs" clone-depth="1"/>
+  <project name="platform/external/doclava" path="external/doclava" remote="aosp" groups="pdk-cw-fs,pdk-fs" clone-depth="1"/>
+  <project name="platform/external/jsilver" path="external/jsilver" remote="aosp" groups="pdk-cw-fs,pdk-fs" clone-depth="1"/>
+  <project name="platform/external/auto" path="external/auto" remote="aosp" groups="pdk-cw-fs,pdk-fs" clone-depth="1"/>
+  <project name="platform/external/guice" path="external/guice" remote="aosp" groups="pdk-cw-fs,pdk-fs" clone-depth="1"/>
+  <project name="platform/external/javaparser" path="external/javaparser" remote="aosp" groups="pdk-cw-fs,pdk-fs" clone-depth="1"/>
+  <project name="platform/external/s2-geometry-library-java" path="external/s2-geometry-library-java" remote="aosp" groups="pdk-cw-fs,pdk-fs" clone-depth="1"/>
 </manifest>
