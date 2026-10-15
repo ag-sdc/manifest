@@ -27,6 +27,7 @@
   <project name="platform/prebuilts/bazel/linux-x86_64" path="prebuilts/bazel/linux-x86_64" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/prebuilts/rust" path="prebuilts/rust" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/prebuilts/tools" path="prebuilts/tools" remote="aosp" groups="pdk,tools,sysui-studio" clone-depth="1"/>
+  <project name="platform/prebuilts/r8" path="prebuilts/r8" remote="aosp" groups="pdk" clone-depth="1"/>
 
   <!-- shadow prebuilt repos (ag-sdc-ci): all target + remaining host + kernel-zenith -->
   <project name="prebuilts_target_tree" path="prebuilts/target/external/tree" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
