@@ -68,4 +68,7 @@
   <project name="platform/external/snakeyaml" path="external/snakeyaml" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/connectedappssdk" path="external/connectedappssdk" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/perfetto" path="external/perfetto" remote="aosp" groups="pdk,sysui-studio" clone-depth="1"/>
+  <project name="platform/external/junit-params" path="external/junit-params" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/tagsoup" path="external/tagsoup" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/google-java-format" path="external/google-java-format" remote="aosp" groups="pdk" clone-depth="1"/>
 </manifest>

@@ -30,6 +30,7 @@
   <project name="platform/prebuilts/r8" path="prebuilts/r8" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/prebuilts/cmdline-tools" path="prebuilts/cmdline-tools" remote="aosp" groups="pdk-cw-fs,pdk-fs,sysui-studio" clone-depth="1"/>
   <project name="platform/prebuilts/gradle-plugin" path="prebuilts/gradle-plugin" remote="aosp" groups="pdk,pdk-cw-fs,pdk-fs" clone-depth="1"/>
+  <project name="platform/prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8" path="prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8" remote="aosp" groups="pdk-cw-fs,pdk-fs" clone-depth="1"/>
 
   <!-- shadow prebuilt repos (ag-sdc-ci): all target + remaining host + kernel-zenith -->
   <project name="prebuilts_target_tree" path="prebuilts/target/external/tree" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
