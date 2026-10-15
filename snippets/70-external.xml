@@ -100,5 +100,4 @@
   <project name="platform/external/lzma" path="external/lzma" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/libcppbor" path="external/libcppbor" remote="aosp" revision="main" groups="pdk" clone-depth="1"/>
   <project name="platform/external/libtextclassifier" path="external/libtextclassifier" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/external/webrtc" path="external/webrtc" remote="aosp" groups="pdk" clone-depth="1"/>
 </manifest>
