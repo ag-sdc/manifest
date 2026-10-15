@@ -28,6 +28,8 @@
   <project name="platform/prebuilts/rust" path="prebuilts/rust" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/prebuilts/tools" path="prebuilts/tools" remote="aosp" groups="pdk,tools,sysui-studio" clone-depth="1"/>
   <project name="platform/prebuilts/r8" path="prebuilts/r8" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/prebuilts/cmdline-tools" path="prebuilts/cmdline-tools" remote="aosp" groups="pdk-cw-fs,pdk-fs,sysui-studio" clone-depth="1"/>
+  <project name="platform/prebuilts/gradle-plugin" path="prebuilts/gradle-plugin" remote="aosp" groups="pdk,pdk-cw-fs,pdk-fs" clone-depth="1"/>
 
   <!-- shadow prebuilt repos (ag-sdc-ci): all target + remaining host + kernel-zenith -->
   <project name="prebuilts_target_tree" path="prebuilts/target/external/tree" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
@@ -62,9 +64,7 @@
   <project name="prebuilts_target_icu" path="prebuilts/target/external/icu" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_logging" path="prebuilts/target/system/logging" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_dagger2" path="prebuilts/target/external/dagger2" remote="ag-sdc-ci" revision="34" groups="pdk"/>
-  <project name="prebuilts_target_error_prone" path="prebuilts/target/external/error_prone" remote="ag-sdc-ci" revision="34" groups="pdk">
-    <linkfile src="." dest="external/error_prone"/>
-  </project>
+  <project name="prebuilts_target_error_prone" path="external/error_prone" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_gson" path="prebuilts/target/external/gson" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_guava" path="prebuilts/target/external/guava" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_coroutines" path="prebuilts/target/external/kotlinx.coroutines" remote="ag-sdc-ci" revision="34" groups="pdk"/>

@@ -66,4 +66,6 @@
   <project name="platform/external/robolectric" path="external/robolectric" remote="aosp" groups="pdk-cw-fs,pdk-fs,sysui-studio" clone-depth="1"/>
   <project name="platform/external/javassist" path="external/javassist" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/snakeyaml" path="external/snakeyaml" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/connectedappssdk" path="external/connectedappssdk" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/perfetto" path="external/perfetto" remote="aosp" groups="pdk,sysui-studio" clone-depth="1"/>
 </manifest>
