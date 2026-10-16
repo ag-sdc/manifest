@@ -95,4 +95,19 @@
   <project name="prebuilts_target_crosvm" path="prebuilts/target/external/crosvm" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_minigbm" path="prebuilts/target/external/minigbm" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_gbm_gralloc" path="prebuilts/target/external/gbm_gralloc" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_flac" path="prebuilts/target/external/flac" remote="ag-sdc-ci" revision="32" groups="pdk"/>
+  <project name="prebuilts_target_libxaac" path="prebuilts/target/external/libxaac" remote="ag-sdc-ci" revision="32" groups="pdk"/>
+  <project name="prebuilts_target_gflags" path="prebuilts/target/external/gflags" remote="ag-sdc-ci" revision="32" groups="pdk"/>
+  <project name="prebuilts_target_libopus" path="prebuilts/target/external/libopus" remote="ag-sdc-ci" revision="32" groups="pdk"/>
+  <project name="prebuilts_target_libyuv" path="prebuilts/target/external/libyuv" remote="ag-sdc-ci" revision="32" groups="pdk"/>
+  <project name="prebuilts_host_fonttools" path="prebuilts/host/external/fonttools" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
+  <project name="prebuilts_target_sfntly" path="prebuilts/target/external/sfntly" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_piex" path="prebuilts/target/external/piex" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_wuffs-mirror-release-c" path="prebuilts/target/external/wuffs-mirror-release-c" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_webp" path="prebuilts/target/external/webp" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_dng_sdk" path="prebuilts/target/external/dng_sdk" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_libldac" path="prebuilts/target/external/libldac" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_liblc3" path="prebuilts/target/external/liblc3" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_libvpx" path="prebuilts/target/external/libvpx" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_webrtc" path="prebuilts/target/external/webrtc" remote="ag-sdc-ci" revision="34" groups="pdk"/>
 </manifest>
