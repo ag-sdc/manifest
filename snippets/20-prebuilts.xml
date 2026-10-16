@@ -92,4 +92,5 @@
   <project name="prebuilts_target_drm_hwcomposer" path="prebuilts/target/external/drm_hwcomposer" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_drm_hwcomposer_celadon" path="prebuilts/target/external/drm_hwcomposer_celadon" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_libhidl_gen_utils" path="prebuilts/target/system/libhidl/gen_utils" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_crosvm" path="prebuilts/target/external/crosvm" remote="ag-sdc-ci" revision="34" groups="pdk"/>
 </manifest>
