@@ -136,4 +136,12 @@
   <project name="prebuilts_host_antlr" path="prebuilts/host/external/antlr" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
   <project name="prebuilts_host_google-java-format" path="prebuilts/host/external/google-java-format" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
   <project name="prebuilts_host_apache-commons-bcel" path="prebuilts/host/external/apache-commons-bcel" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
+  <project name="prebuilts_target_curl" path="prebuilts/target/external/curl" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_flatbuffers" path="prebuilts/target/external/flatbuffers" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_jsoncpp" path="prebuilts/target/external/jsoncpp" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_libusb" path="prebuilts/target/external/libusb" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_lz4" path="prebuilts/target/external/lz4" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_speex" path="prebuilts/target/external/speex" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_tinyxml2" path="prebuilts/target/external/tinyxml2" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_zstd" path="prebuilts/target/external/zstd" remote="ag-sdc-ci" revision="34" groups="pdk"/>
 </manifest>

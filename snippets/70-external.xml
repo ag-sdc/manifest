@@ -62,16 +62,12 @@
   <project name="platform/external/perfetto" path="external/perfetto" remote="aosp" groups="pdk,sysui-studio" clone-depth="1"/>
   <project name="platform/external/junit-params" path="external/junit-params" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/tagsoup" path="external/tagsoup" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/external/jsoncpp" path="external/jsoncpp" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/external/libusb" path="external/libusb" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/tinyalsa" path="external/tinyalsa" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/zopfli" path="external/zopfli" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/apache-commons-compress" path="external/apache-commons-compress" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="LineageOS/android_external_avb" path="external/avb" groups="pdk" clone-depth="1"/>
-  <project name="platform/external/tinyxml2" path="external/tinyxml2" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/OpenCSD" path="external/OpenCSD" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/sonivox" path="external/sonivox" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/external/flatbuffers" path="external/flatbuffers" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/google-benchmark" path="external/google-benchmark" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/gwp_asan" path="external/gwp_asan" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/grpc-grpc" path="external/grpc-grpc" remote="aosp" groups="pdk" clone-depth="1"/>
@@ -82,11 +78,9 @@
   <project name="platform/external/wayland" path="external/wayland" remote="aosp" groups="pdk"/>
   <project name="platform/external/wayland-protocols" path="external/wayland-protocols" remote="aosp" groups="pdk"/>
   <project name="platform/external/apache-http" path="external/apache-http" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/external/lz4" path="external/lz4" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/open-dice" path="external/open-dice" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/libepoxy" path="external/libepoxy" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/virglrenderer" path="external/virglrenderer" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/external/zstd" path="external/zstd" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/lzma" path="external/lzma" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/libcppbor" path="external/libcppbor" remote="aosp" revision="main" groups="pdk" clone-depth="1"/>
   <project name="platform/external/libtextclassifier" path="external/libtextclassifier" remote="aosp" groups="pdk" clone-depth="1"/>
@@ -113,7 +107,6 @@
   <project name="platform/external/bsdiff" path="external/bsdiff" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/bzip2" path="external/bzip2" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/zucchini" path="external/zucchini" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/external/curl" path="external/curl" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/dynamic_depth" path="external/dynamic_depth" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/libexif" path="external/libexif" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/image_io" path="external/image_io" remote="aosp" groups="pdk" clone-depth="1"/>
@@ -140,7 +133,6 @@
   <project name="platform/external/scrypt" path="external/scrypt" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/double-conversion" path="external/double-conversion" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/jsmn" path="external/jsmn" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/external/speex" path="external/speex" remote="aosp" groups="pdk" clone-depth="1"/>
 </manifest>
 
 
