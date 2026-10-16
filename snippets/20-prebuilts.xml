@@ -136,12 +136,31 @@
   <project name="prebuilts_host_antlr" path="prebuilts/host/external/antlr" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
   <project name="prebuilts_host_google-java-format" path="prebuilts/host/external/google-java-format" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
   <project name="prebuilts_host_apache-commons-bcel" path="prebuilts/host/external/apache-commons-bcel" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
+  <!-- Wave 1: 26 C/C++ prebuilt target libraries -->
+  <project name="prebuilts_target_aac" path="prebuilts/target/external/aac" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_bsdiff" path="prebuilts/target/external/bsdiff" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_bzip2" path="prebuilts/target/external/bzip2" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_curl" path="prebuilts/target/external/curl" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_eigen" path="prebuilts/target/external/eigen" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_flatbuffers" path="prebuilts/target/external/flatbuffers" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_jsoncpp" path="prebuilts/target/external/jsoncpp" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_libaom" path="prebuilts/target/external/libaom" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_libcppbor" path="prebuilts/target/external/libcppbor" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_libepoxy" path="prebuilts/target/external/libepoxy" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_libexif" path="prebuilts/target/external/libexif" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_libffi" path="prebuilts/target/external/libffi" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_libsrtp2" path="prebuilts/target/external/libsrtp2" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_libultrahdr" path="prebuilts/target/external/libultrahdr" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_libusb" path="prebuilts/target/external/libusb" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_lz4" path="prebuilts/target/external/lz4" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_lzma" path="prebuilts/target/external/lzma" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_pffft" path="prebuilts/target/external/pffft" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_rnnoise" path="prebuilts/target/external/rnnoise" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_speex" path="prebuilts/target/external/speex" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_tinyxml2" path="prebuilts/target/external/tinyxml2" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_virglrenderer" path="prebuilts/target/external/virglrenderer" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_wayland" path="prebuilts/target/external/wayland" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_wayland-protocols" path="prebuilts/target/external/wayland-protocols" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_zstd" path="prebuilts/target/external/zstd" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_zucchini" path="prebuilts/target/external/zucchini" remote="ag-sdc-ci" revision="34" groups="pdk"/>
 </manifest>
