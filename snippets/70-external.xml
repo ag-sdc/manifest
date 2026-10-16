@@ -146,7 +146,6 @@
   <project name="platform/external/scrypt" path="external/scrypt" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/double-conversion" path="external/double-conversion" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/jsmn" path="external/jsmn" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/external/dtc" path="external/dtc" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/speex" path="external/speex" remote="aosp" groups="pdk" clone-depth="1"/>
 </manifest>
 
