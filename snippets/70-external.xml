@@ -93,4 +93,20 @@
   <project name="platform/external/lzma" path="external/lzma" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/libcppbor" path="external/libcppbor" remote="aosp" revision="main" groups="pdk" clone-depth="1"/>
   <project name="platform/external/libtextclassifier" path="external/libtextclassifier" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/flac" path="external/flac" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/webrtc" path="external/webrtc" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/webp" path="external/webp" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/dng_sdk" path="external/dng_sdk" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/piex" path="external/piex" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/sfntly" path="external/sfntly" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/wuffs-mirror-release-c" path="external/wuffs-mirror-release-c" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="LineageOS/android_external_aac" path="external/aac" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/libldac" path="external/libldac" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/liblc3" path="external/liblc3" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/fonttools" path="external/fonttools" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/gflags" path="external/gflags" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/libopus" path="external/libopus" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/libvpx" path="external/libvpx" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="LineageOS/android_external_libyuv" path="external/libyuv" groups="pdk" clone-depth="1"/>
 </manifest>
+
