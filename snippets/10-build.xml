@@ -29,5 +29,5 @@
   <project name="platform/sdk" path="sdk" remote="aosp" groups="pdk-cw-fs,pdk-fs" clone-depth="1"/>
   <project name="platform/tools/asuite" path="tools/asuite" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/tools/apksig" path="tools/apksig" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/tools/security" path="tools/security" remote="aosp" groups="pdk,tools" clone-depth="1"/>
+  <project name="platform/tools/tradefederation/prebuilts" path="tools/tradefederation/prebuilts" remote="aosp" groups="pdk,tradefed" clone-depth="1"/>
 </manifest>
