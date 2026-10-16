@@ -46,7 +46,6 @@
   <project name="platform/external/grpc-grpc-java" path="external/grpc-grpc-java" remote="aosp" groups="pdk,tradefed" clone-depth="1"/>
   <project name="platform/external/opencensus-java" path="external/opencensus-java" remote="aosp" groups="pdk,tradefed" clone-depth="1"/>
   <project name="platform/external/googletest" path="external/googletest" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/external/minigbm" path="external/minigbm" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/jazzer-api" path="external/jazzer-api" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="tools/platform-compat" path="tools/platform-compat" remote="aosp" groups="pdk-cw-fs,pdk-fs,pdk" clone-depth="1"/>
   <project name="platform/tools/metalava" path="tools/metalava" remote="aosp" groups="pdk,tools" clone-depth="1"/>
