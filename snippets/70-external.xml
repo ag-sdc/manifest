@@ -124,12 +124,9 @@
   <project name="platform/external/libexif" path="external/libexif" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/image_io" path="external/image_io" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/libultrahdr" path="external/libultrahdr" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/external/google-breakpad" path="external/google-breakpad" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/minijail" path="external/minijail" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/libchrome-gestures" path="external/libchrome-gestures" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/libpalmrejection" path="external/libpalmrejection" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/external/tremolo" path="external/tremolo" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/external/libprotobuf-mutator" path="external/libprotobuf-mutator" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/test/app_compat/csuite" path="test/app_compat/csuite" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/libphonenumber" path="external/libphonenumber" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/rappor" path="external/rappor" remote="aosp" groups="pdk" clone-depth="1"/>
