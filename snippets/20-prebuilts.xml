@@ -95,7 +95,7 @@
   <project name="prebuilts_target_crosvm" path="prebuilts/target/external/crosvm" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_minigbm" path="prebuilts/target/external/minigbm" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_gbm_gralloc" path="prebuilts/target/external/gbm_gralloc" remote="ag-sdc-ci" revision="34" groups="pdk"/>
-  <project name="prebuilts_target_flac" path="prebuilts/target/external/flac" remote="ag-sdc-ci" revision="32" groups="pdk"/>
+  <project name="prebuilts_target_flac" path="prebuilts/target/external/flac" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_libxaac" path="prebuilts/target/external/libxaac" remote="ag-sdc-ci" revision="32" groups="pdk"/>
   <project name="prebuilts_target_gflags" path="prebuilts/target/external/gflags" remote="ag-sdc-ci" revision="32" groups="pdk"/>
   <project name="prebuilts_target_libopus" path="prebuilts/target/external/libopus" remote="ag-sdc-ci" revision="32" groups="pdk"/>
