@@ -4,7 +4,6 @@
   <project name="LineageOS/android_device_generic_common" path="device/generic/common" groups="pdk"/>
   <project name="device/generic/x86" remote="aosp" groups="pdk"/>
   <project name="device/generic/x86_64" remote="aosp" groups="pdk"/>
-  <project name="device/google/cuttlefish" path="device/google/cuttlefish" remote="aosp" groups="device,pdk" clone-depth="1"/>
   <project name="device/generic/goldfish" path="device/generic/goldfish" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="device/generic/goldfish-opengl" path="device/generic/goldfish-opengl" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="android_vendor_lineage" path="vendor/lineage" remote="los-tv-x86"/>

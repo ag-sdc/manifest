@@ -64,4 +64,8 @@
   <project name="platform/packages/modules/ConfigInfrastructure" path="packages/modules/ConfigInfrastructure" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/packages/modules/DeviceLock" path="packages/modules/DeviceLock" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/packages/modules/HealthFitness" path="packages/modules/HealthFitness" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/system/update_engine" path="system/update_engine" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/packages/modules/Gki" path="packages/modules/Gki" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/bootable/recovery" path="bootable/recovery" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="LineageOS/android_lineage-sdk" path="lineage-sdk" remote="github" revision="lineage-21.0"/>
 </manifest>

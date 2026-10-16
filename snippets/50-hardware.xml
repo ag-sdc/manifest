@@ -10,4 +10,5 @@
   <project name="platform/hardware/google/gfxstream" path="hardware/google/gfxstream" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/hardware/google/aemu" path="hardware/google/aemu" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="LineageOS/android_kernel_configs" path="kernel/configs" groups="pdk"/>
+  <project name="platform/hardware/google/apf" path="hardware/google/apf" remote="aosp" groups="pdk" clone-depth="1"/>
 </manifest>
