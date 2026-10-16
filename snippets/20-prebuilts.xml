@@ -110,4 +110,18 @@
   <project name="prebuilts_target_liblc3" path="prebuilts/target/external/liblc3" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_libvpx" path="prebuilts/target/external/libvpx" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_webrtc" path="prebuilts/target/external/webrtc" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_host_markupsafe" path="prebuilts/host/external/markupsafe" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
+  <project name="prebuilts_host_diffutils" path="prebuilts/host/external/diffutils" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
+  <project name="prebuilts_host_setuptools" path="prebuilts/host/external/setuptools" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
+  <project name="prebuilts_target_xz-embedded" path="prebuilts/target/external/xz-embedded" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_libcap" path="prebuilts/target/external/libcap" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_liburing" path="prebuilts/target/external/liburing" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_libdivsufsort" path="prebuilts/target/external/libdivsufsort" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_fdlibm" path="prebuilts/target/external/fdlibm" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_libwebm" path="prebuilts/target/external/libwebm" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_pigweed" path="prebuilts/target/external/pigweed" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_cpu_features" path="prebuilts/target/external/cpu_features" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_host_vixl" path="prebuilts/host/external/vixl" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_host_bumble" path="prebuilts/host/external/bumble" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
+  <project name="prebuilts_host_nullaway" path="prebuilts/host/external/nullaway" remote="ag-sdc-ci" revision="34" groups="pdk"/>
 </manifest>
