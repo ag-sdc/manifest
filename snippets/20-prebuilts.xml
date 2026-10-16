@@ -119,7 +119,6 @@
   <project name="prebuilts_target_libdivsufsort" path="prebuilts/target/external/libdivsufsort" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_fdlibm" path="prebuilts/target/external/fdlibm" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_libwebm" path="prebuilts/target/external/libwebm" remote="ag-sdc-ci" revision="34" groups="pdk"/>
-  <project name="prebuilts_target_pigweed" path="prebuilts/target/external/pigweed" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_cpu_features" path="prebuilts/target/external/cpu_features" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_host_vixl" path="prebuilts/host/external/vixl" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_host_bumble" path="prebuilts/host/external/bumble" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
