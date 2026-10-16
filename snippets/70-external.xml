@@ -116,7 +116,6 @@
   <project name="platform/external/mdnsresponder" path="external/mdnsresponder" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/openscreen" path="external/openscreen" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/bsdiff" path="external/bsdiff" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/external/puffin" path="external/puffin" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/bzip2" path="external/bzip2" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/zucchini" path="external/zucchini" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/curl" path="external/curl" remote="aosp" groups="pdk" clone-depth="1"/>
@@ -128,8 +127,6 @@
   <project name="platform/external/libchrome-gestures" path="external/libchrome-gestures" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/libpalmrejection" path="external/libpalmrejection" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/test/app_compat/csuite" path="test/app_compat/csuite" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/external/libphonenumber" path="external/libphonenumber" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/external/rappor" path="external/rappor" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/pigweed" path="external/pigweed" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/nanopb-c" path="external/nanopb-c" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/exoplayer" path="external/exoplayer" remote="aosp" groups="pdk" clone-depth="1"/>

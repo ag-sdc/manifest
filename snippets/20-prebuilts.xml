@@ -126,4 +126,8 @@
   <project name="prebuilts_target_google-breakpad" path="prebuilts/target/external/google-breakpad" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_tremolo" path="prebuilts/target/external/tremolo" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_libprotobuf-mutator" path="prebuilts/target/external/libprotobuf-mutator" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_libphonenumber" path="prebuilts/target/external/libphonenumber" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_rappor" path="prebuilts/target/external/rappor" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_chre" path="prebuilts/target/system/chre" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_puffin" path="prebuilts/target/external/puffin" remote="ag-sdc-ci" revision="34" groups="pdk"/>
 </manifest>
