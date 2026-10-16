@@ -93,21 +93,62 @@
   <project name="platform/external/lzma" path="external/lzma" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/libcppbor" path="external/libcppbor" remote="aosp" revision="main" groups="pdk" clone-depth="1"/>
   <project name="platform/external/libtextclassifier" path="external/libtextclassifier" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/external/flac" path="external/flac" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/external/webrtc" path="external/webrtc" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/external/webp" path="external/webp" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/external/dng_sdk" path="external/dng_sdk" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/external/piex" path="external/piex" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/external/sfntly" path="external/sfntly" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/external/wuffs-mirror-release-c" path="external/wuffs-mirror-release-c" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/aac" path="external/aac" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/external/libldac" path="external/libldac" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/external/liblc3" path="external/liblc3" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/external/fonttools" path="external/fonttools" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/external/gflags" path="external/gflags" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/external/libopus" path="external/libopus" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/external/libvpx" path="external/libvpx" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/external/libyuv" path="external/libyuv" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/compiler-rt" path="external/compiler-rt" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/tinyalsa_new" path="external/tinyalsa_new" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/abseil-cpp" path="external/abseil-cpp" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/python/pybind11" path="external/python/pybind11" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/eigen" path="external/eigen" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/tensorflow" path="external/tensorflow" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/FP16" path="external/FP16" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/fft2d" path="external/fft2d" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/ruy" path="external/ruy" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/libaom" path="external/libaom" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/libsrtp2" path="external/libsrtp2" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/pffft" path="external/pffft" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/rnnoise" path="external/rnnoise" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/dlmalloc" path="external/dlmalloc" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/oj-libjdwp" path="external/oj-libjdwp" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/gemmlowp" path="external/gemmlowp" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/libcap" path="external/libcap" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/vixl" path="external/vixl" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/python/mako" path="external/python/mako" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/python/setuptools" path="external/python/setuptools" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/python/markupsafe" path="external/python/markupsafe" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/regex-re2" path="external/regex-re2" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/parameter-framework" path="external/parameter-framework" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/mdnsresponder" path="external/mdnsresponder" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/openscreen" path="external/openscreen" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/bsdiff" path="external/bsdiff" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/libbrillo" path="external/libbrillo" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/puffin" path="external/puffin" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/bzip2" path="external/bzip2" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/libdivsufsort" path="external/libdivsufsort" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/liburing" path="external/liburing" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/zucchini" path="external/zucchini" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/curl" path="external/curl" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/dynamic_depth" path="external/dynamic_depth" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/libexif" path="external/libexif" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/image_io" path="external/image_io" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/libultrahdr" path="external/libultrahdr" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/xz-embedded" path="external/xz-embedded" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/cpu_features" path="external/cpu_features" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/google-breakpad" path="external/google-breakpad" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/minijail" path="external/minijail" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/libchrome-gestures" path="external/libchrome-gestures" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/libpalmrejection" path="external/libpalmrejection" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/fdlibm" path="external/fdlibm" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/tremolo" path="external/tremolo" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/libwebm" path="external/libwebm" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/libprotobuf-mutator" path="external/libprotobuf-mutator" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/test/app_compat/csuite" path="test/app_compat/csuite" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/libphonenumber" path="external/libphonenumber" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/rappor" path="external/rappor" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/pigweed" path="external/pigweed" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/nanopb-c" path="external/nanopb-c" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/exoplayer" path="external/exoplayer" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/nullaway" path="external/nullaway" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/jemalloc_new" path="external/jemalloc_new" remote="aosp" groups="pdk" clone-depth="1"/>
 </manifest>
 
 
