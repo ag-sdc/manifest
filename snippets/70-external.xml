@@ -54,8 +54,6 @@
   <project name="platform/external/jackson-annotations" path="external/jackson-annotations" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/jackson-core" path="external/jackson-core" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/jackson-databind" path="external/jackson-databind" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/external/antlr" path="external/antlr" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/external/apache-commons-bcel" path="external/apache-commons-bcel" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/escapevelocity" path="external/escapevelocity" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/robolectric" path="external/robolectric" remote="aosp" groups="pdk-cw-fs,pdk-fs,sysui-studio" clone-depth="1"/>
   <project name="platform/external/javassist" path="external/javassist" remote="aosp" groups="pdk" clone-depth="1"/>
@@ -64,7 +62,6 @@
   <project name="platform/external/perfetto" path="external/perfetto" remote="aosp" groups="pdk,sysui-studio" clone-depth="1"/>
   <project name="platform/external/junit-params" path="external/junit-params" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/tagsoup" path="external/tagsoup" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/external/google-java-format" path="external/google-java-format" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/jsoncpp" path="external/jsoncpp" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/libusb" path="external/libusb" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/tinyalsa" path="external/tinyalsa" remote="aosp" groups="pdk" clone-depth="1"/>
@@ -97,7 +94,6 @@
   <project name="platform/external/compiler-rt" path="external/compiler-rt" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/tinyalsa_new" path="external/tinyalsa_new" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/abseil-cpp" path="external/abseil-cpp" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/external/python/pybind11" path="external/python/pybind11" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/eigen" path="external/eigen" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/tensorflow" path="external/tensorflow" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/FP16" path="external/FP16" remote="aosp" groups="pdk" clone-depth="1"/>
@@ -110,7 +106,6 @@
   <project name="platform/external/dlmalloc" path="external/dlmalloc" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/oj-libjdwp" path="external/oj-libjdwp" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/gemmlowp" path="external/gemmlowp" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/external/python/mako" path="external/python/mako" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/regex-re2" path="external/regex-re2" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/parameter-framework" path="external/parameter-framework" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/mdnsresponder" path="external/mdnsresponder" remote="aosp" groups="pdk" clone-depth="1"/>
@@ -132,7 +127,6 @@
   <project name="platform/external/exoplayer" path="external/exoplayer" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/jemalloc_new" path="external/jemalloc_new" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/arm-optimized-routines" path="external/arm-optimized-routines" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/external/vulkan-headers" path="external/vulkan-headers" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/libnl" path="external/libnl" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/bcc" path="external/bcc" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/anonymous-counting-tokens" path="external/anonymous-counting-tokens" remote="aosp" groups="pdk" clone-depth="1"/>

@@ -130,4 +130,10 @@
   <project name="prebuilts_target_rappor" path="prebuilts/target/external/rappor" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_chre" path="prebuilts/target/system/chre" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_puffin" path="prebuilts/target/external/puffin" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_host_mako" path="prebuilts/host/external/mako" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
+  <project name="prebuilts_host_pybind11" path="prebuilts/host/external/pybind11" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
+  <project name="prebuilts_host_vulkan-headers" path="prebuilts/host/external/vulkan-headers" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
+  <project name="prebuilts_host_antlr" path="prebuilts/host/external/antlr" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
+  <project name="prebuilts_host_google-java-format" path="prebuilts/host/external/google-java-format" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
+  <project name="prebuilts_host_apache-commons-bcel" path="prebuilts/host/external/apache-commons-bcel" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
 </manifest>
