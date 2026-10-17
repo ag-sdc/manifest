@@ -209,4 +209,5 @@
   <project name="prebuilts_target_gemmlowp" path="prebuilts/target/external/gemmlowp" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_compiler-rt" path="prebuilts/target/external/compiler-rt" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_minijail" path="prebuilts/target/external/minijail" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_libchrome-gestures" path="prebuilts/target/external/libchrome-gestures" remote="ag-sdc-ci" revision="34" groups="pdk"/>
 </manifest>
