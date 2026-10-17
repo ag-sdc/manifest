@@ -190,4 +190,5 @@
   <project name="prebuilts_target_kotlinpoet" path="prebuilts/target/external/kotlinpoet" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <!-- Wave 3: Advanced system & native libraries -->
   <project name="prebuilts_target_avb" path="prebuilts/target/external/avb" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_OpenCSD" path="prebuilts/target/external/OpenCSD" remote="ag-sdc-ci" revision="34" groups="pdk"/>
 </manifest>
