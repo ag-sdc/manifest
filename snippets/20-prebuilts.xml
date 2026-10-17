@@ -193,4 +193,5 @@
   <project name="prebuilts_target_OpenCSD" path="prebuilts/target/external/OpenCSD" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_sonivox" path="prebuilts/target/external/sonivox" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_google-benchmark" path="prebuilts/target/external/google-benchmark" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_gwp_asan" path="prebuilts/target/external/gwp_asan" remote="ag-sdc-ci" revision="34" groups="pdk"/>
 </manifest>
