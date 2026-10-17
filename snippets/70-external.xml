@@ -44,7 +44,6 @@
   <project name="platform/external/perfetto" path="external/perfetto" remote="aosp" groups="pdk,sysui-studio" clone-depth="1"/>
   <project name="platform/external/tinyalsa" path="external/tinyalsa" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/zopfli" path="external/zopfli" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/external/grpc-grpc" path="external/grpc-grpc" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/apache-http" path="external/apache-http" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/libtextclassifier" path="external/libtextclassifier" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/downloader" path="external/downloader" remote="aosp" groups="pdk" clone-depth="1"/>
