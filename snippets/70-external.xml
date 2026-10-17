@@ -55,7 +55,6 @@
   <project name="platform/external/oj-libjdwp" path="external/oj-libjdwp" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/gemmlowp" path="external/gemmlowp" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/vixl" path="external/vixl" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/external/regex-re2" path="external/regex-re2" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/parameter-framework" path="external/parameter-framework" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/mdnsresponder" path="external/mdnsresponder" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/dynamic_depth" path="external/dynamic_depth" remote="aosp" groups="pdk" clone-depth="1"/>
