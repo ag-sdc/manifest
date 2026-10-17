@@ -68,4 +68,6 @@
   <project name="platform/packages/modules/Gki" path="packages/modules/Gki" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/bootable/recovery" path="bootable/recovery" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="LineageOS/android_lineage-sdk" path="lineage-sdk" remote="github" revision="lineage-21.0"/>
+  <project name="platform/packages/modules/Profiling" path="packages/modules/Profiling" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/packages/modules/RemoteKeyProvisioning" path="packages/modules/RemoteKeyProvisioning" remote="aosp" groups="pdk-cw-fs,pdk-fs" clone-depth="1"/>
 </manifest>
