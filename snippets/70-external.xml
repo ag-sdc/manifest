@@ -38,7 +38,6 @@
   <project name="platform/external/doclava" path="external/doclava" remote="aosp" groups="pdk-cw-fs,pdk-fs" clone-depth="1"/>
   <project name="platform/external/jsilver" path="external/jsilver" remote="aosp" groups="pdk-cw-fs,pdk-fs" clone-depth="1"/>
   <project name="platform/external/javaparser" path="external/javaparser" remote="aosp" groups="pdk-cw-fs,pdk-fs" clone-depth="1"/>
-  <project name="platform/external/opencensus-java" path="external/opencensus-java" remote="aosp" groups="pdk,tradefed" clone-depth="1"/>
   <project name="platform/external/googletest" path="external/googletest" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/jazzer-api" path="external/jazzer-api" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="tools/platform-compat" path="tools/platform-compat" remote="aosp" groups="pdk-cw-fs,pdk-fs,pdk" clone-depth="1"/>
