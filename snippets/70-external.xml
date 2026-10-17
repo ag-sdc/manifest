@@ -86,6 +86,9 @@
   <project name="platform/external/ims" path="external/ims" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/slf4j" path="external/slf4j" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/lottie" path="external/lottie" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/zxing" path="external/zxing" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/setupcompat" path="external/setupcompat" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/setupdesign" path="external/setupdesign" remote="aosp" groups="pdk" clone-depth="1"/>
 </manifest>
 
 
