@@ -71,4 +71,5 @@
   <project name="platform/frameworks/ex" path="frameworks/ex" remote="aosp" groups="pdk-cw-fs,pdk-fs" clone-depth="1"/>
   <project name="platform/frameworks/opt/calendar" path="frameworks/opt/calendar" remote="aosp" groups="pdk-cw-fs,pdk-fs" clone-depth="1"/>
   <project name="platform/frameworks/opt/vcard" path="frameworks/opt/vcard" remote="aosp" groups="pdk-cw-fs,pdk-fs" clone-depth="1"/>
+  <project name="platform/frameworks/libs/service_entitlement" path="frameworks/libs/service_entitlement" remote="aosp" groups="pdk" clone-depth="1"/>
 </manifest>
