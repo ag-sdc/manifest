@@ -71,7 +71,6 @@
   <project name="platform/external/google-benchmark" path="external/google-benchmark" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/gwp_asan" path="external/gwp_asan" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/grpc-grpc" path="external/grpc-grpc" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="LineageOS/android_external_arm-trusted-firmware" path="external/arm-trusted-firmware" groups="pdk" clone-depth="1"/>
   <project name="platform/external/kotlinpoet" path="external/kotlinpoet" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/fec" path="external/fec" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/apache-http" path="external/apache-http" remote="aosp" groups="pdk" clone-depth="1"/>
@@ -81,7 +80,6 @@
   <project name="platform/external/tinyalsa_new" path="external/tinyalsa_new" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/abseil-cpp" path="external/abseil-cpp" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/tensorflow" path="external/tensorflow" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/external/FP16" path="external/FP16" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/fft2d" path="external/fft2d" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/ruy" path="external/ruy" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/dlmalloc" path="external/dlmalloc" remote="aosp" groups="pdk" clone-depth="1"/>
@@ -90,7 +88,6 @@
   <project name="platform/external/regex-re2" path="external/regex-re2" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/parameter-framework" path="external/parameter-framework" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/mdnsresponder" path="external/mdnsresponder" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/external/openscreen" path="external/openscreen" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/dynamic_depth" path="external/dynamic_depth" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/image_io" path="external/image_io" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/minijail" path="external/minijail" remote="aosp" groups="pdk" clone-depth="1"/>

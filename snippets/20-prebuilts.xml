@@ -136,6 +136,9 @@
   <project name="prebuilts_host_antlr" path="prebuilts/host/external/antlr" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
   <project name="prebuilts_host_google-java-format" path="prebuilts/host/external/google-java-format" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
   <project name="prebuilts_host_apache-commons-bcel" path="prebuilts/host/external/apache-commons-bcel" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
+  <project name="prebuilts_host_arm-trusted-firmware" path="prebuilts/host/external/arm-trusted-firmware" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
+  <project name="prebuilts_target_fp16" path="prebuilts/target/external/fp16" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
+  <project name="prebuilts_host_openscreen" path="prebuilts/host/external/openscreen" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
   <!-- Wave 1: 26 C/C++ prebuilt target libraries -->
   <project name="prebuilts_target_aac" path="prebuilts/target/external/aac" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_bsdiff" path="prebuilts/target/external/bsdiff" remote="ag-sdc-ci" revision="34" groups="pdk"/>
