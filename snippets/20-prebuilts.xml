@@ -204,4 +204,5 @@
   <project name="prebuilts_target_parameter-framework" path="prebuilts/target/external/parameter-framework" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_mdnsresponder" path="prebuilts/target/external/mdnsresponder" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_fft2d" path="prebuilts/target/external/fft2d" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_ruy" path="prebuilts/target/external/ruy" remote="ag-sdc-ci" revision="34" groups="pdk"/>
 </manifest>
