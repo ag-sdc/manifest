@@ -174,7 +174,7 @@
   <project name="prebuilts_target_zstd" path="prebuilts/target/external/zstd" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_zucchini" path="prebuilts/target/external/zucchini" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <!-- Wave 2: JVM & Extractive JVM APEXes -->
-  <project name="prebuilts_target_auto" path="prebuilts/target/external/auto" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_auto" path="external/auto" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_guice" path="prebuilts/target/external/guice" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_s2-geometry-library-java" path="prebuilts/target/external/s2-geometry-library-java" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_grpc-grpc-java" path="prebuilts/target/external/grpc-grpc-java" remote="ag-sdc-ci" revision="34" groups="pdk"/>
