@@ -220,4 +220,5 @@
   <project name="prebuilts_target_bcc" path="prebuilts/target/external/bcc" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_private-join-and-compute" path="prebuilts/target/external/private-join-and-compute" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_anonymous-counting-tokens" path="prebuilts/target/external/anonymous-counting-tokens" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_lua" path="prebuilts/target/external/lua" remote="ag-sdc-ci" revision="34" groups="pdk"/>
 </manifest>
