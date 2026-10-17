@@ -207,4 +207,5 @@
   <project name="prebuilts_target_ruy" path="prebuilts/target/external/ruy" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_dlmalloc" path="prebuilts/target/external/dlmalloc" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_gemmlowp" path="prebuilts/target/external/gemmlowp" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_compiler-rt" path="prebuilts/target/external/compiler-rt" remote="ag-sdc-ci" revision="34" groups="pdk"/>
 </manifest>
