@@ -48,7 +48,6 @@
   <project name="platform/external/jackson-core" path="external/jackson-core" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/jackson-databind" path="external/jackson-databind" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/javassist" path="external/javassist" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/external/snakeyaml" path="external/snakeyaml" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/connectedappssdk" path="external/connectedappssdk" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/perfetto" path="external/perfetto" remote="aosp" groups="pdk,sysui-studio" clone-depth="1"/>
   <project name="platform/external/junit-params" path="external/junit-params" remote="aosp" groups="pdk" clone-depth="1"/>
