@@ -211,4 +211,5 @@
   <project name="prebuilts_target_minijail" path="prebuilts/target/external/minijail" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_libchrome-gestures" path="prebuilts/target/external/libchrome-gestures" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_libpalmrejection" path="prebuilts/target/external/libpalmrejection" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_nanopb-c" path="prebuilts/target/external/nanopb-c" remote="ag-sdc-ci" revision="34" groups="pdk"/>
 </manifest>
