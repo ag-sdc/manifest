@@ -224,4 +224,5 @@
   <project name="prebuilts_target_scrypt" path="prebuilts/target/external/scrypt" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_double-conversion" path="prebuilts/target/external/double-conversion" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_jsmn" path="prebuilts/target/external/jsmn" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_libpcap" path="prebuilts/target/external/libpcap" remote="ag-sdc-ci" revision="34" groups="pdk"/>
 </manifest>
