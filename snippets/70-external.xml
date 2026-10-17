@@ -46,7 +46,6 @@
   <project name="platform/external/zopfli" path="external/zopfli" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/grpc-grpc" path="external/grpc-grpc" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/apache-http" path="external/apache-http" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/external/open-dice" path="external/open-dice" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/libtextclassifier" path="external/libtextclassifier" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/compiler-rt" path="external/compiler-rt" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/tinyalsa_new" path="external/tinyalsa_new" remote="aosp" groups="pdk" clone-depth="1"/>
