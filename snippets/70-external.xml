@@ -47,7 +47,6 @@
   <project name="platform/external/jackson-annotations" path="external/jackson-annotations" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/jackson-core" path="external/jackson-core" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/jackson-databind" path="external/jackson-databind" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/external/robolectric" path="external/robolectric" remote="aosp" groups="pdk-cw-fs,pdk-fs,sysui-studio" clone-depth="1"/>
   <project name="platform/external/javassist" path="external/javassist" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/snakeyaml" path="external/snakeyaml" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/connectedappssdk" path="external/connectedappssdk" remote="aosp" groups="pdk" clone-depth="1"/>

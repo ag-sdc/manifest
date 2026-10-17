@@ -175,4 +175,5 @@
   <project name="prebuilts_target_google-smali" path="prebuilts/target/external/google-smali" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_perfmark" path="prebuilts/target/external/perfmark" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_escapevelocity" path="prebuilts/target/external/escapevelocity" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_robolectric" path="prebuilts/target/external/robolectric" remote="ag-sdc-ci" revision="34" groups="pdk"/>
 </manifest>
