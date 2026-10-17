@@ -84,6 +84,12 @@
   <project name="platform/external/double-conversion" path="external/double-conversion" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/jsmn" path="external/jsmn" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/erofs-utils" path="external/erofs-utils" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/obex" path="external/obex" remote="aosp" groups="pdk-cw-fs,pdk-fs" clone-depth="1"/>
+  <project name="platform/external/icing" path="external/icing" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/apache-velocity-engine" path="external/apache-velocity-engine" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/owasp/java-encoder" path="external/owasp/java-encoder" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/nist-sip" path="external/nist-sip" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/ims" path="external/ims" remote="aosp" groups="pdk" clone-depth="1"/>
 </manifest>
 
 
