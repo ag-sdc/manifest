@@ -173,4 +173,5 @@
   <project name="prebuilts_target_grpc-grpc-java" path="prebuilts/target/external/grpc-grpc-java" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_opencensus-java" path="prebuilts/target/external/opencensus-java" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_google-smali" path="prebuilts/target/external/google-smali" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_perfmark" path="prebuilts/target/external/perfmark" remote="ag-sdc-ci" revision="34" groups="pdk"/>
 </manifest>
