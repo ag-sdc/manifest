@@ -53,6 +53,7 @@
   <project name="prebuilts_host_jackson-core" path="prebuilts/host/external/jackson-core" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
   <project name="prebuilts_host_jackson-databind" path="prebuilts/host/external/jackson-databind" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
   <project name="prebuilts_host_javassist" path="prebuilts/host/external/javassist" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
+  <project name="prebuilts_host_tagsoup" path="prebuilts/host/external/tagsoup" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
   <project name="prebuilts_host_jcommander" path="prebuilts/host/external/jcommander" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
   <project name="prebuilts_host_jsr305" path="prebuilts/host/external/jsr305" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
   <project name="prebuilts_host_objenesis" path="prebuilts/host/external/objenesis" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
