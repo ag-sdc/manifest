@@ -57,7 +57,6 @@
   <project name="platform/test/app_compat/csuite" path="test/app_compat/csuite" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/pigweed" path="external/pigweed" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/exoplayer" path="external/exoplayer" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/external/anonymous-counting-tokens" path="external/anonymous-counting-tokens" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/lua" path="external/lua" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/pdfium" path="external/pdfium" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/libpcap" path="external/libpcap" remote="aosp" groups="pdk" clone-depth="1"/>
