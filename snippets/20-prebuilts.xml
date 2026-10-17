@@ -218,4 +218,5 @@
   <project name="prebuilts_target_elfutils" path="prebuilts/target/external/elfutils" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_libbpf" path="prebuilts/target/external/libbpf" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_bcc" path="prebuilts/target/external/bcc" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_private-join-and-compute" path="prebuilts/target/external/private-join-and-compute" remote="ag-sdc-ci" revision="34" groups="pdk"/>
 </manifest>
