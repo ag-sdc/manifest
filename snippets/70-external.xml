@@ -57,7 +57,6 @@
   <project name="platform/test/app_compat/csuite" path="test/app_compat/csuite" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/pigweed" path="external/pigweed" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/exoplayer" path="external/exoplayer" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/external/jemalloc_new" path="external/jemalloc_new" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/arm-optimized-routines" path="external/arm-optimized-routines" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/libnl" path="external/libnl" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/bcc" path="external/bcc" remote="aosp" groups="pdk" clone-depth="1"/>
