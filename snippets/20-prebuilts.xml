@@ -226,4 +226,5 @@
   <project name="prebuilts_target_jsmn" path="prebuilts/target/external/jsmn" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_libpcap" path="prebuilts/target/external/libpcap" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_ffmpeg" path="prebuilts/target/external/ffmpeg" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_federated-compute" path="prebuilts/target/external/federated-compute" remote="ag-sdc-ci" revision="34" groups="pdk"/>
 </manifest>
