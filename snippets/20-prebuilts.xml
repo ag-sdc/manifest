@@ -178,4 +178,5 @@
   <project name="prebuilts_target_robolectric" path="prebuilts/target/external/robolectric" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_snakeyaml" path="prebuilts/target/external/snakeyaml" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_connectedappssdk" path="prebuilts/target/external/connectedappssdk" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_junit-params" path="prebuilts/target/external/junit-params" remote="ag-sdc-ci" revision="34" groups="pdk"/>
 </manifest>
