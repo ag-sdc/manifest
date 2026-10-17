@@ -58,7 +58,6 @@
   <project name="platform/external/google-benchmark" path="external/google-benchmark" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/gwp_asan" path="external/gwp_asan" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/grpc-grpc" path="external/grpc-grpc" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/external/kotlinpoet" path="external/kotlinpoet" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/fec" path="external/fec" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/apache-http" path="external/apache-http" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/open-dice" path="external/open-dice" remote="aosp" groups="pdk" clone-depth="1"/>
