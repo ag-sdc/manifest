@@ -57,7 +57,6 @@
   <project name="platform/external/dlmalloc" path="external/dlmalloc" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/oj-libjdwp" path="external/oj-libjdwp" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/gemmlowp" path="external/gemmlowp" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/external/mdnsresponder" path="external/mdnsresponder" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/dynamic_depth" path="external/dynamic_depth" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/image_io" path="external/image_io" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/minijail" path="external/minijail" remote="aosp" groups="pdk" clone-depth="1"/>

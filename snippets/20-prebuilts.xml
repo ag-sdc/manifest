@@ -202,4 +202,5 @@
   <project name="prebuilts_target_regex-re2" path="prebuilts/target/external/regex-re2" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_grpc-grpc" path="prebuilts/target/external/grpc-grpc" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_parameter-framework" path="prebuilts/target/external/parameter-framework" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_mdnsresponder" path="prebuilts/target/external/mdnsresponder" remote="ag-sdc-ci" revision="34" groups="pdk"/>
 </manifest>
