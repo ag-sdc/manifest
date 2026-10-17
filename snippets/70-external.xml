@@ -89,6 +89,8 @@
   <project name="platform/external/setupcompat" path="external/setupcompat" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/setupdesign" path="external/setupdesign" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/ksoap2" path="external/ksoap2" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/ot-br-posix" path="external/ot-br-posix" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/openthread" path="external/openthread" remote="aosp" groups="pdk" clone-depth="1"/>
 </manifest>
 
 
