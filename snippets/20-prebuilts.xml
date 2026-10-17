@@ -50,6 +50,7 @@
   <project name="prebuilts_host_mockito" path="prebuilts/host/external/mockito" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
   <project name="prebuilts_host_geojson-jackson" path="prebuilts/host/external/geojson-jackson" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
   <project name="prebuilts_host_jackson-annotations" path="prebuilts/host/external/jackson-annotations" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
+  <project name="prebuilts_host_jackson-core" path="prebuilts/host/external/jackson-core" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
   <project name="prebuilts_host_jcommander" path="prebuilts/host/external/jcommander" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
   <project name="prebuilts_host_jsr305" path="prebuilts/host/external/jsr305" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
   <project name="prebuilts_host_objenesis" path="prebuilts/host/external/objenesis" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
