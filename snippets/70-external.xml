@@ -83,6 +83,7 @@
   <project name="platform/external/openthread" path="external/openthread" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/libmonet" path="external/libmonet" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/libutf" path="external/libutf" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/marisa-trie" path="external/marisa-trie" remote="aosp" groups="pdk" clone-depth="1"/>
 </manifest>
 
 
