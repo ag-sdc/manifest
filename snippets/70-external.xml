@@ -88,6 +88,7 @@
   <project name="platform/external/owasp/java-encoder" path="external/owasp/java-encoder" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/nist-sip" path="external/nist-sip" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/ims" path="external/ims" remote="aosp" groups="pdk" clone-depth="1"/>
+  <project name="platform/external/slf4j" path="external/slf4j" remote="aosp" groups="pdk" clone-depth="1"/>
 </manifest>
 
 
