@@ -61,7 +61,6 @@
   <project name="platform/external/anonymous-counting-tokens" path="external/anonymous-counting-tokens" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/lua" path="external/lua" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/pdfium" path="external/pdfium" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/external/elfutils" path="external/elfutils" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/private-join-and-compute" path="external/private-join-and-compute" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/libbpf" path="external/libbpf" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/libpcap" path="external/libpcap" remote="aosp" groups="pdk" clone-depth="1"/>
