@@ -44,7 +44,6 @@
   <project name="platform/external/perfetto" path="external/perfetto" remote="aosp" groups="pdk,sysui-studio" clone-depth="1"/>
   <project name="platform/external/tinyalsa" path="external/tinyalsa" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/zopfli" path="external/zopfli" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="LineageOS/android_external_avb" path="external/avb" groups="pdk" clone-depth="1"/>
   <project name="platform/external/OpenCSD" path="external/OpenCSD" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/sonivox" path="external/sonivox" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/google-benchmark" path="external/google-benchmark" remote="aosp" groups="pdk" clone-depth="1"/>
