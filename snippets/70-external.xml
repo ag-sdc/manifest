@@ -48,7 +48,6 @@
   <project name="platform/external/apache-http" path="external/apache-http" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/libtextclassifier" path="external/libtextclassifier" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/compiler-rt" path="external/compiler-rt" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/external/tinyalsa_new" path="external/tinyalsa_new" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/abseil-cpp" path="external/abseil-cpp" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/tensorflow" path="external/tensorflow" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/fft2d" path="external/fft2d" remote="aosp" groups="pdk" clone-depth="1"/>
