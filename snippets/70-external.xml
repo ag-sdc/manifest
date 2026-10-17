@@ -37,11 +37,7 @@
   <project name="platform/external/testng" path="external/testng" remote="aosp" groups="pdk-cw-fs,pdk-fs" clone-depth="1"/>
   <project name="platform/external/doclava" path="external/doclava" remote="aosp" groups="pdk-cw-fs,pdk-fs" clone-depth="1"/>
   <project name="platform/external/jsilver" path="external/jsilver" remote="aosp" groups="pdk-cw-fs,pdk-fs" clone-depth="1"/>
-  <project name="platform/external/auto" path="external/auto" remote="aosp" groups="pdk-cw-fs,pdk-fs" clone-depth="1"/>
-  <project name="platform/external/guice" path="external/guice" remote="aosp" groups="pdk-cw-fs,pdk-fs" clone-depth="1"/>
   <project name="platform/external/javaparser" path="external/javaparser" remote="aosp" groups="pdk-cw-fs,pdk-fs" clone-depth="1"/>
-  <project name="platform/external/s2-geometry-library-java" path="external/s2-geometry-library-java" remote="aosp" groups="pdk-cw-fs,pdk-fs" clone-depth="1"/>
-  <project name="platform/external/grpc-grpc-java" path="external/grpc-grpc-java" remote="aosp" groups="pdk,tradefed" clone-depth="1"/>
   <project name="platform/external/opencensus-java" path="external/opencensus-java" remote="aosp" groups="pdk,tradefed" clone-depth="1"/>
   <project name="platform/external/googletest" path="external/googletest" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/jazzer-api" path="external/jazzer-api" remote="aosp" groups="pdk" clone-depth="1"/>
