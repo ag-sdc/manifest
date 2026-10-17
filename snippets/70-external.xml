@@ -62,7 +62,6 @@
   <project name="platform/external/lua" path="external/lua" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/pdfium" path="external/pdfium" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/private-join-and-compute" path="external/private-join-and-compute" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/external/libbpf" path="external/libbpf" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/libpcap" path="external/libpcap" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/federated-compute" path="external/federated-compute" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/scrypt" path="external/scrypt" remote="aosp" groups="pdk" clone-depth="1"/>

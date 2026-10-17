@@ -216,4 +216,5 @@
   <project name="prebuilts_target_arm-optimized-routines" path="prebuilts/target/external/arm-optimized-routines" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_libnl" path="prebuilts/target/external/libnl" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_elfutils" path="prebuilts/target/external/elfutils" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_libbpf" path="prebuilts/target/external/libbpf" remote="ag-sdc-ci" revision="34" groups="pdk"/>
 </manifest>
