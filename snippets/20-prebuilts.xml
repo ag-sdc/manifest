@@ -197,4 +197,5 @@
   <project name="prebuilts_target_fec" path="prebuilts/target/external/fec" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_open-dice" path="prebuilts/target/external/open-dice" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_tinyalsa_new" path="prebuilts/target/external/tinyalsa_new" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_abseil-cpp" path="prebuilts/target/external/abseil-cpp" remote="ag-sdc-ci" revision="34" groups="pdk"/>
 </manifest>
