@@ -228,4 +228,5 @@
   <project name="prebuilts_target_ffmpeg" path="prebuilts/target/external/ffmpeg" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_federated-compute" path="prebuilts/target/external/federated-compute" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_tensorflow" path="prebuilts/target/external/tensorflow" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_libtextclassifier" path="prebuilts/target/external/libtextclassifier" remote="ag-sdc-ci" revision="34" groups="pdk"/>
 </manifest>
