@@ -60,7 +60,6 @@
   <project name="platform/external/pdfium" path="external/pdfium" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/libpcap" path="external/libpcap" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/federated-compute" path="external/federated-compute" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/external/double-conversion" path="external/double-conversion" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/jsmn" path="external/jsmn" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/erofs-utils" path="external/erofs-utils" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/obex" path="external/obex" remote="aosp" groups="pdk-cw-fs,pdk-fs" clone-depth="1"/>

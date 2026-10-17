@@ -222,4 +222,5 @@
   <project name="prebuilts_target_anonymous-counting-tokens" path="prebuilts/target/external/anonymous-counting-tokens" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_lua" path="prebuilts/target/external/lua" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_scrypt" path="prebuilts/target/external/scrypt" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_double-conversion" path="prebuilts/target/external/double-conversion" remote="ag-sdc-ci" revision="34" groups="pdk"/>
 </manifest>
