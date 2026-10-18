@@ -5,7 +5,6 @@
   <project name="LineageOS/android_external_libcxx" path="external/libcxx" groups="pdk"/>
   <project name="platform/external/libcxxabi" path="external/libcxxabi" remote="aosp" groups="pdk"/>
   <project name="platform/external/selinux" path="external/selinux" remote="aosp" groups="pdk"/>
-  <project name="LineageOS/android_external_sqlite" path="external/sqlite" groups="pdk"/>
   <project name="platform/external/libxml2" path="external/libxml2" remote="aosp" groups="libxml2,pdk"/>
   <project name="LineageOS/android_external_skia" path="external/skia" groups="pdk,qcom_msm8x26"/>
   <project name="platform/external/libpng" path="external/libpng" remote="aosp" groups="pdk"/>

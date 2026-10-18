@@ -238,4 +238,5 @@
   <project name="prebuilts_target_tflite-support" path="prebuilts/target/external/tflite-support" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_erofs-utils" path="prebuilts/target/external/erofs-utils" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_cbor-java" path="prebuilts/target/external/cbor-java" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_sqlite" path="prebuilts/target/external/sqlite" remote="ag-sdc-ci" revision="34" groups="pdk"/>
 </manifest>
