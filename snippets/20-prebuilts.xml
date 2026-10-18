@@ -231,4 +231,5 @@
   <project name="prebuilts_target_libtextclassifier" path="prebuilts/target/external/libtextclassifier" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_pdfium" path="prebuilts/target/external/pdfium" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_slf4j" path="prebuilts/target/external/slf4j" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_lottie" path="prebuilts/target/external/lottie" remote="ag-sdc-ci" revision="34" groups="pdk"/>
 </manifest>
