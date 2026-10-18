@@ -48,7 +48,6 @@
   <project name="platform/external/downloader" path="external/downloader" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/cbor-java" path="external/cbor-java" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/mobile-data-download" path="external/mobile-data-download" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/external/tflite-support" path="external/tflite-support" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/oj-libjdwp" path="external/oj-libjdwp" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/dynamic_depth" path="external/dynamic_depth" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/image_io" path="external/image_io" remote="aosp" groups="pdk" clone-depth="1"/>
