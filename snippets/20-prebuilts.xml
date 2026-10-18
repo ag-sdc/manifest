@@ -233,4 +233,6 @@
   <project name="prebuilts_target_slf4j" path="prebuilts/target/external/slf4j" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_lottie" path="prebuilts/target/external/lottie" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_zxing" path="prebuilts/target/external/zxing" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_openthread" path="prebuilts/target/external/openthread" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_ot-br-posix" path="prebuilts/target/external/ot-br-posix" remote="ag-sdc-ci" revision="34" groups="pdk"/>
 </manifest>
