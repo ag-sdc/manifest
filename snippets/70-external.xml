@@ -4,11 +4,9 @@
   <project name="android_external_mksh" path="external/mksh" remote="los-tv-x86" groups="pdk"/>
   <project name="LineageOS/android_external_libcxx" path="external/libcxx" groups="pdk"/>
   <project name="platform/external/libcxxabi" path="external/libcxxabi" remote="aosp" groups="pdk"/>
-  <project name="platform/external/selinux" path="external/selinux" remote="aosp" groups="pdk"/>
   <project name="platform/external/libxml2" path="external/libxml2" remote="aosp" groups="libxml2,pdk"/>
   <project name="LineageOS/android_external_skia" path="external/skia" groups="pdk,qcom_msm8x26"/>
   <project name="platform/external/libpng" path="external/libpng" remote="aosp" groups="pdk"/>
-  <project name="platform/external/libjpeg-turbo" path="external/libjpeg-turbo" remote="aosp" groups="pdk"/>
   <project name="platform/external/brotli" path="external/brotli" remote="aosp" groups="pdk"/>
   <project name="android_external_nano" path="external/nano" remote="ag-github" revision="7.2"/>
   <project name="android_external_ntfs-3g" path="external/ntfs-3g" remote="ag-github" revision="20240316"/>
@@ -17,7 +15,6 @@
   <project name="LineageOS/android_external_openssh" path="external/openssh" groups="pdk"/>
   <project name="platform/external/tcpdump" path="external/tcpdump" remote="aosp" groups="pdk"/>
   <project name="platform/external/f2fs-tools" path="external/f2fs-tools" remote="aosp" groups="pdk"/>
-  <project name="platform/external/scudo" path="external/scudo" remote="aosp" groups="pdk"/>
   <project name="platform/external/jsr330" path="external/jsr330" remote="aosp" groups="pdk"/>
   <project name="platform/external/kotlinc" path="external/kotlinc" remote="aosp" groups="pdk"/>
   <project name="platform/external/go-cmp" path="external/go-cmp" remote="aosp" groups="pdk"/>

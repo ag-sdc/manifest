@@ -244,4 +244,8 @@
   <project name="prebuilts_target_cbor-java" path="prebuilts/target/external/cbor-java" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_sqlite" path="prebuilts/target/external/sqlite" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_e2fsprogs" path="prebuilts/target/external/e2fsprogs" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_bionic" path="prebuilts/target/bionic" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_scudo" path="prebuilts/target/external/scudo" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_libjpeg-turbo" path="prebuilts/target/external/libjpeg-turbo" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_selinux" path="prebuilts/target/external/selinux" remote="ag-sdc-ci" revision="34" groups="pdk"/>
 </manifest>
