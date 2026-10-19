@@ -18,8 +18,6 @@
   <project name="platform/external/tcpdump" path="external/tcpdump" remote="aosp" groups="pdk"/>
   <project name="platform/external/f2fs-tools" path="external/f2fs-tools" remote="aosp" groups="pdk"/>
   <project name="platform/external/scudo" path="external/scudo" remote="aosp" groups="pdk"/>
-  <project name="LineageOS/android_external_conscrypt" path="external/conscrypt" groups="pdk"/>
-  <project name="platform/external/bouncycastle" path="external/bouncycastle" remote="aosp" groups="pdk"/>
   <project name="platform/external/jsr330" path="external/jsr330" remote="aosp" groups="pdk"/>
   <project name="platform/external/kotlinc" path="external/kotlinc" remote="aosp" groups="pdk"/>
   <project name="platform/external/go-cmp" path="external/go-cmp" remote="aosp" groups="pdk"/>

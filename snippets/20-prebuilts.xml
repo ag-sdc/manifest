@@ -147,6 +147,10 @@
   <project name="prebuilts_host_arm-trusted-firmware" path="prebuilts/host/external/arm-trusted-firmware" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
   <project name="prebuilts_target_fp16" path="prebuilts/target/external/fp16" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
   <project name="prebuilts_host_openscreen" path="prebuilts/host/external/openscreen" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
+  <project name="prebuilts_host_bouncycastle" path="prebuilts/host/external/bouncycastle" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
+  <project name="prebuilts_host_conscrypt" path="prebuilts/host/external/conscrypt" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
+  <project name="prebuilts_host_apksig" path="prebuilts/host/external/apksig" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
+  <project name="prebuilts_host_signapk" path="prebuilts/host/external/signapk" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
   <!-- Wave 1: 26 C/C++ prebuilt target libraries -->
   <project name="prebuilts_target_aac" path="prebuilts/target/external/aac" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_bsdiff" path="prebuilts/target/external/bsdiff" remote="ag-sdc-ci" revision="34" groups="pdk"/>
