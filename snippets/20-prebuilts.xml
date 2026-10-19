@@ -88,6 +88,7 @@
   </project>
   <project name="prebuilts_target_libbase" path="prebuilts/target/system/libbase" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_timezone" path="prebuilts/target/system/timezone" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_resolv" path="prebuilts/target/packages/modules/DnsResolver" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_vendor_graphics_mesa_links" path="prebuilts/target/vendor_graphics_mesa_links" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
   <project name="prebuilts_target_fmtlib" path="prebuilts/target/external/fmtlib" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
   <project name="prebuilts_target_libncurses" path="prebuilts/target/external/libncurses" remote="ag-sdc-ci" revision="universal" groups="pdk"/>

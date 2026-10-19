@@ -26,7 +26,6 @@
   <project name="LineageOS/android_packages_modules_common" path="packages/modules/common" groups="pdk-cw-fs,pdk-fs"/>
   <project name="platform/packages/modules/StatsD" path="packages/modules/StatsD" remote="aosp" groups="pdk-cw-fs,pdk-fs"/>
   <project name="LineageOS/android_packages_modules_CellBroadcastService" path="packages/modules/CellBroadcastService" groups="pdk"/>
-  <project name="platform/packages/modules/DnsResolver" path="packages/modules/DnsResolver" remote="aosp" groups="pdk-cw-fs,pdk-fs"/>
   <project name="platform/packages/modules/ExtServices" path="packages/modules/ExtServices" remote="aosp" groups="pdk-cw-fs,pdk-fs"/>
   <project name="platform/packages/modules/IPsec" path="packages/modules/IPsec" remote="aosp" groups="pdk"/>
   <project name="platform/packages/modules/Media" path="packages/modules/Media" remote="aosp" groups="pdk"/>
