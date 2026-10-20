@@ -92,6 +92,7 @@
   <project name="prebuilts_target_adbd" path="prebuilts/target/packages/modules/adb" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_neuralnetworks" path="prebuilts/target/packages/modules/NeuralNetworks" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_swcodec" path="prebuilts/target/packages/modules/swcodec" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_geotz" path="prebuilts/target/packages/modules/GeoTZ" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_vendor_graphics_mesa_links" path="prebuilts/target/vendor_graphics_mesa_links" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
   <project name="prebuilts_target_fmtlib" path="prebuilts/target/external/fmtlib" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
   <project name="prebuilts_target_libncurses" path="prebuilts/target/external/libncurses" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
