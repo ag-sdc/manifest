@@ -265,5 +265,8 @@
   <project name="prebuilts_target_framework_hardware_lineage_interfaces" path="prebuilts/target/framework/hardware/lineage/interfaces" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_framework_frameworks_av" path="prebuilts/target/framework/frameworks/av" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_framework_frameworks_ex" path="prebuilts/target/framework/frameworks/ex" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_framework_apex" path="prebuilts/target/framework/system/apex" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_framework_hidl" path="prebuilts/target/framework/system/tools/hidl" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_framework_netd" path="prebuilts/target/framework/system/netd" remote="ag-sdc-ci" revision="34" groups="pdk"/>
 </manifest>
 
