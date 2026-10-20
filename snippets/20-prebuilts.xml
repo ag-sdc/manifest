@@ -254,4 +254,16 @@
   <project name="prebuilts_target_scudo" path="prebuilts/target/external/scudo" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_libjpeg-turbo" path="prebuilts/target/external/libjpeg-turbo" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_selinux" path="prebuilts/target/external/selinux" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <!-- Framework Extractive APEX Prebuilts -->
+  <project name="prebuilts_target_framework_extras" path="prebuilts/target/framework/system/extras" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_framework_security" path="prebuilts/target/framework/system/security" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_framework_wificond" path="prebuilts/target/framework/system/connectivity/wificond" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_framework_adb" path="prebuilts/target/framework/packages/modules/adb" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_framework_vold" path="prebuilts/target/framework/system/vold" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_framework_update_engine" path="prebuilts/target/framework/system/update_engine" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_framework_hardware_interfaces" path="prebuilts/target/framework/hardware/interfaces" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_framework_hardware_lineage_interfaces" path="prebuilts/target/framework/hardware/lineage/interfaces" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_framework_frameworks_av" path="prebuilts/target/framework/frameworks/av" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_framework_frameworks_ex" path="prebuilts/target/framework/frameworks/ex" remote="ag-sdc-ci" revision="34" groups="pdk"/>
 </manifest>
+
