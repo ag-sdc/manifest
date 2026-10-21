@@ -16,7 +16,6 @@
   <project name="platform/frameworks/opt/setupwizard" path="frameworks/opt/setupwizard" remote="aosp" groups="pdk-cw-fs,pdk-fs"/>
   <project name="LineageOS/android_frameworks_opt_telephony" path="frameworks/opt/telephony" groups="pdk"/>
   <project name="platform/frameworks/proto_logging" path="frameworks/proto_logging" remote="aosp" groups="pdk-cw-fs,pdk-fs,sysui-studio"/>
-  <project name="android_packages_modules_Bluetooth" path="packages/modules/Bluetooth" remote="los-tv-x86" groups="pdk"/>
   <project name="android_packages_modules_NetworkStack" path="packages/modules/NetworkStack" remote="los-tv-x86" groups="pdk-cw-fs,pdk-fs"/>
   <project name="LineageOS/android_packages_modules_Connectivity" path="packages/modules/Connectivity" groups="pdk-cw-fs,pdk-fs"/>
   <project name="LineageOS/android_packages_modules_Wifi" path="packages/modules/Wifi" groups="pdk-cw-fs,pdk-fs,sysui-studio"/>
