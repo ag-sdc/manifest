@@ -39,8 +39,7 @@
   <project name="prebuilts_target_gps" path="prebuilts/target/hardware/gps" remote="ag-sdc-ci" revision="32" groups="pdk"/>
   <project name="prebuilts_target_libbt-vendor-intel" path="prebuilts/target/hardware/libbt-vendor-intel" remote="ag-sdc-ci" revision="32" groups="pdk"/>
   <project name="prebuilts_target_libdrm" path="prebuilts/target/external/libdrm" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
-  <project name="prebuilts_target_protobuf" path="prebuilts/target/external/protobuf" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
-  <project name="prebuilts_host_protobuf" path="prebuilts/host/external/protobuf" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
+  <project name="prebuilts_protobuf" path="prebuilts/external/protobuf" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
   <project name="prebuilts_target_harfbuzz_ng" path="prebuilts/target/external/harfbuzz_ng" remote="ag-sdc-ci" revision="32" groups="pdk"/>
   <project name="prebuilts_host_apache-commons-io" path="prebuilts/host/external/apache-commons-io" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
   <project name="prebuilts_host_apache-commons-lang" path="prebuilts/host/external/apache-commons-lang" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
@@ -69,7 +68,7 @@
   <project name="prebuilts_target_libhwbinder" path="prebuilts/target/system/libhwbinder" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_sepolicy" path="prebuilts/target/system/sepolicy" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_zlib" path="prebuilts/target/external/zlib" remote="ag-sdc-ci" revision="34" groups="pdk"/>
-  <project name="prebuilts_target_dtc" path="prebuilts/target/external/dtc" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_dtc" path="prebuilts/external/dtc" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_expat" path="prebuilts/target/external/expat" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_icu" path="prebuilts/target/external/icu" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_logging" path="prebuilts/target/system/logging" remote="ag-sdc-ci" revision="34" groups="pdk"/>
@@ -103,24 +102,24 @@
   <project name="prebuilts_target_kernel-zenith" path="kernel/prebuilts" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
 
   <!-- gap shadows built 2026-10-14 (external/libbrillo, etc.) all rev 34 -->
-  <project name="prebuilts_target_libbrillo" path="prebuilts/target/external/libbrillo" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_libbrillo" path="prebuilts/external/libbrillo" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_drm_hwcomposer" path="prebuilts/target/external/drm_hwcomposer" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_drm_hwcomposer_celadon" path="prebuilts/target/external/drm_hwcomposer_celadon" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_libhidl_gen_utils" path="prebuilts/target/system/libhidl/gen_utils" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_crosvm" path="prebuilts/target/external/crosvm" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_minigbm" path="prebuilts/target/external/minigbm" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_gbm_gralloc" path="prebuilts/target/external/gbm_gralloc" remote="ag-sdc-ci" revision="34" groups="pdk"/>
-  <project name="prebuilts_target_flac" path="prebuilts/target/external/flac" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_flac" path="prebuilts/external/flac" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_libxaac" path="prebuilts/target/external/libxaac" remote="ag-sdc-ci" revision="32" groups="pdk"/>
   <project name="prebuilts_target_gflags" path="prebuilts/target/external/gflags" remote="ag-sdc-ci" revision="32" groups="pdk"/>
   <project name="prebuilts_target_libopus" path="prebuilts/target/external/libopus" remote="ag-sdc-ci" revision="32" groups="pdk"/>
   <project name="prebuilts_target_libyuv" path="prebuilts/target/external/libyuv" remote="ag-sdc-ci" revision="32" groups="pdk"/>
   <project name="prebuilts_host_fonttools" path="prebuilts/host/external/fonttools" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
-  <project name="prebuilts_target_sfntly" path="prebuilts/target/external/sfntly" remote="ag-sdc-ci" revision="34" groups="pdk"/>
-  <project name="prebuilts_target_piex" path="prebuilts/target/external/piex" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_sfntly" path="prebuilts/external/sfntly" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_piex" path="prebuilts/external/piex" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_wuffs-mirror-release-c" path="prebuilts/target/external/wuffs-mirror-release-c" remote="ag-sdc-ci" revision="34" groups="pdk"/>
-  <project name="prebuilts_target_webp" path="prebuilts/target/external/webp" remote="ag-sdc-ci" revision="34" groups="pdk"/>
-  <project name="prebuilts_target_dng_sdk" path="prebuilts/target/external/dng_sdk" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_webp" path="prebuilts/external/webp" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_dng_sdk" path="prebuilts/external/dng_sdk" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_libldac" path="prebuilts/target/external/libldac" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_liblc3" path="prebuilts/target/external/liblc3" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_libvpx" path="prebuilts/target/external/libvpx" remote="ag-sdc-ci" revision="34" groups="pdk"/>
@@ -135,7 +134,7 @@
   <project name="prebuilts_target_fdlibm" path="prebuilts/target/external/fdlibm" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_libwebm" path="prebuilts/target/external/libwebm" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_cpu_features" path="prebuilts/target/external/cpu_features" remote="ag-sdc-ci" revision="34" groups="pdk"/>
-  <project name="prebuilts_target_vixl" path="prebuilts/target/external/vixl" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_vixl" path="prebuilts/external/vixl" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_host_bumble" path="prebuilts/host/external/bumble" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
   <project name="prebuilts_host_nullaway" path="external/nullaway" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_google-breakpad" path="prebuilts/target/external/google-breakpad" remote="ag-sdc-ci" revision="34" groups="pdk"/>
@@ -247,10 +246,10 @@
   <project name="prebuilts_target_openthread" path="prebuilts/target/external/openthread" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_ot-br-posix" path="prebuilts/target/external/ot-br-posix" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_tflite-support" path="prebuilts/target/external/tflite-support" remote="ag-sdc-ci" revision="34" groups="pdk"/>
-  <project name="prebuilts_target_erofs-utils" path="prebuilts/target/external/erofs-utils" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_erofs-utils" path="prebuilts/external/erofs-utils" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_cbor-java" path="prebuilts/target/external/cbor-java" remote="ag-sdc-ci" revision="34" groups="pdk"/>
-  <project name="prebuilts_target_sqlite" path="prebuilts/target/external/sqlite" remote="ag-sdc-ci" revision="34" groups="pdk"/>
-  <project name="prebuilts_target_e2fsprogs" path="prebuilts/target/external/e2fsprogs" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_sqlite" path="prebuilts/external/sqlite" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_e2fsprogs" path="prebuilts/external/e2fsprogs" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_bionic" path="prebuilts/target/bionic" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_scudo" path="prebuilts/target/external/scudo" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_libjpeg-turbo" path="prebuilts/target/external/libjpeg-turbo" remote="ag-sdc-ci" revision="34" groups="pdk"/>
