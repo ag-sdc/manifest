@@ -262,8 +262,8 @@
   <project name="prebuilts_target_framework_security" path="prebuilts/target/framework/system/security" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_framework_wificond" path="prebuilts/target/framework/system/connectivity/wificond" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_framework_adb" path="prebuilts/target/framework/packages/modules/adb" remote="ag-sdc-ci" revision="34" groups="pdk"/>
-  <project name="prebuilts_target_framework_bluetooth" path="prebuilts/target/framework/packages/modules/Bluetooth" remote="ag-sdc-ci" revision="34" groups="pdk"/>
-  <project name="prebuilts_target_framework_vold" path="prebuilts/target/framework/system/vold" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="aidl_packages_modules_Bluetooth" path="prebuilts/target/framework/packages/modules/Bluetooth" remote="ag-sdc" revision="34" groups="pdk"/>
+  <project name="aidl_system_vold" path="prebuilts/target/framework/system/vold" remote="ag-sdc" revision="34" groups="pdk"/>
   <project name="prebuilts_target_framework_update_engine" path="prebuilts/target/framework/system/update_engine" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_framework_hardware_interfaces" path="prebuilts/target/framework/hardware/interfaces" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_framework_hardware_lineage_interfaces" path="prebuilts/target/framework/hardware/lineage/interfaces" remote="ag-sdc-ci" revision="34" groups="pdk"/>
