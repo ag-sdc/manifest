@@ -258,9 +258,9 @@
   <project name="prebuilts_sqlite" path="prebuilts/external/sqlite" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_e2fsprogs" path="prebuilts/external/e2fsprogs" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_bionic" path="prebuilts/target/bionic" remote="ag-sdc-ci" revision="34" groups="pdk">
-    <linkdir src="include" dest="bionic/libc/kernel/uapi"/>
-    <linkdir src="include" dest="bionic/libc/kernel/android/uapi"/>
-    <linkdir src="include/dns" dest="bionic/libc/dns/include"/>
+    <linkfile src="include" dest="bionic/libc/kernel/uapi"/>
+    <linkfile src="include" dest="bionic/libc/kernel/android/uapi"/>
+    <linkfile src="include/dns" dest="bionic/libc/dns/include"/>
   </project>
   <project name="prebuilts_target_scudo" path="prebuilts/target/external/scudo" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_libjpeg-turbo" path="prebuilts/target/external/libjpeg-turbo" remote="ag-sdc-ci" revision="34" groups="pdk"/>
