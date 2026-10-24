@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <manifest>
-  <project name="android_frameworks_base" path="frameworks/base" remote="los-tv-x86" groups="pdk-cw-fs,pdk-fs,sysui-studio"/>
+  <project name="android_frameworks_base" path="frameworks/base" remote="ag-sdc" revision="14-21.0-framework-only" groups="pdk-cw-fs,pdk-fs,sysui-studio"/>
   <project name="android_frameworks_native" path="frameworks/native" remote="los-tv-x86" groups="pdk"/>
   <project name="platform/frameworks/hardware/interfaces" path="frameworks/hardware/interfaces" remote="aosp" groups="pdk,sysui-studio"/>
   <project name="platform/frameworks/layoutlib" path="frameworks/layoutlib" remote="aosp" groups="pdk-cw-fs,pdk-fs"/>
