@@ -26,5 +26,4 @@
   <project name="platform/libnativehelper" path="libnativehelper" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/system/testing/gtest_extras" path="system/testing/gtest_extras" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="aidl_system_core_storaged" path="system/core/storaged" remote="ag-sdc" revision="34" groups="pdk"/>
-  <project name="aidl_system_gsid" path="system/gsid" remote="ag-sdc" revision="34" groups="pdk"/>
 </manifest>
