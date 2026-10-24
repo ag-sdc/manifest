@@ -8,7 +8,6 @@
   <project name="platform/system/ca-certificates" path="system/ca-certificates" remote="aosp" groups="pdk"/>
   <project name="LineageOS/android_system_libhidl" path="system/libhidl" groups="pdk,sysui-studio"/>
   <project name="platform/system/libsysprop" path="system/libsysprop" remote="aosp" groups="pdk"/>
-  <project name="platform/system/libvintf" path="system/libvintf" remote="aosp" groups="pdk"/>
   <project name="platform/system/memory/libion" path="system/memory/libion" remote="aosp" groups="pdk"/>
   <project name="platform/system/memory/libdmabufheap" path="system/memory/libdmabufheap" remote="aosp" groups="pdk"/>
   <project name="platform/system/memory/libmeminfo" path="system/memory/libmeminfo" remote="aosp" groups="pdk" clone-depth="1"/>
