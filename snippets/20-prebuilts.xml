@@ -268,6 +268,7 @@
     <linkfile src="include" dest="bionic/libc/kernel/android/uapi"/>
     <linkfile src="include/dns" dest="bionic/libc/dns/include"/>
   </project>
+  <project name="prebuilts_target_art" path="prebuilts/target/art" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_scudo" path="prebuilts/target/external/scudo" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_libjpeg-turbo" path="prebuilts/target/external/libjpeg-turbo" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_selinux" path="prebuilts/target/external/selinux" remote="ag-sdc-ci" revision="34" groups="pdk"/>
