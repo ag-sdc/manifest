@@ -16,7 +16,6 @@
   <project name="platform/frameworks/opt/setupwizard" path="frameworks/opt/setupwizard" remote="aosp" groups="pdk-cw-fs,pdk-fs"/>
   <project name="LineageOS/android_frameworks_opt_telephony" path="frameworks/opt/telephony" groups="pdk"/>
   <project name="platform/frameworks/proto_logging" path="frameworks/proto_logging" remote="aosp" groups="pdk-cw-fs,pdk-fs,sysui-studio"/>
-  <project name="android_packages_modules_NetworkStack" path="packages/modules/NetworkStack" remote="los-tv-x86" groups="pdk-cw-fs,pdk-fs"/>
   <project name="aidl_packages_modules_Connectivity" path="packages/modules/Connectivity" remote="ag-sdc" revision="34" groups="pdk-cw-fs,pdk-fs"/>
   <project name="aidl_packages_modules_Wifi" path="packages/modules/Wifi" remote="ag-sdc" revision="34" groups="pdk-cw-fs,pdk-fs,sysui-studio"/>
   <project name="LineageOS/android_packages_modules_Permission" path="packages/modules/Permission" groups="pdk-cw-fs,pdk-fs"/>
@@ -31,7 +30,6 @@
   <project name="platform/packages/modules/SdkExtensions" path="packages/modules/SdkExtensions" remote="aosp" groups="pdk-cw-fs,pdk-fs"/>
   <project name="platform/packages/modules/Scheduling" path="packages/modules/Scheduling" remote="aosp" groups="pdk-cw-fs,pdk-fs"/>
   <project name="platform/packages/modules/Telephony" path="packages/modules/Telephony" remote="aosp" groups="pdk-cw-fs,pdk-fs"/>
-  <project name="LineageOS/android_packages_modules_Virtualization" path="packages/modules/Virtualization" groups="pdk"/>
   <project name="platform/packages/modules/AdServices" path="packages/modules/AdServices" remote="aosp" groups="pdk-cw-fs,pdk-fs,sysui-studio" clone-depth="1"/>
   <project name="platform/packages/modules/Uwb" path="packages/modules/Uwb" remote="aosp" groups="pdk-cw-fs,pdk-fs" clone-depth="1"/>
   <project name="platform/packages/modules/AppSearch" path="packages/modules/AppSearch" remote="aosp" groups="pdk" clone-depth="1"/>
