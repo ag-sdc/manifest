@@ -1,7 +1,4 @@
 <?xml version="1.0" ?>
 <manifest>
   <project name="android_system_hardware_interfaces" path="system/hardware/interfaces" remote="los-tv-x86" groups="pdk,sysui-studio"/>
-  <project name="platform/hardware/libhardware_legacy" path="hardware/libhardware_legacy" remote="aosp" groups="pdk"/>
-  <project name="LineageOS/android_hardware_lineage_compat" path="hardware/lineage/compat"/>
-  <project name="LineageOS/android_kernel_configs" path="kernel/configs" groups="pdk"/>
 </manifest>

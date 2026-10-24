@@ -8,5 +8,4 @@
   <include name="snippets/50-hardware.xml"/>
   <include name="snippets/60-device.xml"/>
   <include name="snippets/70-external.xml"/>
-  <include name="snippets/75-rust.xml"/>
 </manifest>

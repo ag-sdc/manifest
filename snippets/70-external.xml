@@ -10,33 +10,5 @@
   <project name="platform/external/spdx-tools" path="external/spdx-tools" remote="aosp" groups="pdk"/>
   <project name="toolchain/pgo-profiles" path="toolchain/pgo-profiles" remote="aosp" groups="pdk"/>
   <project name="platform/external/bazel-skylib" path="external/bazel-skylib" remote="aosp" groups="pdk"/>
-  <project name="platform/external/junit" path="external/junit" remote="aosp" groups="pdk-cw-fs,pdk-fs" clone-depth="1"/>
-  <project name="platform/external/truth" path="external/truth" remote="aosp" groups="pdk-cw-fs,pdk-fs" clone-depth="1"/>
-  <project name="platform/external/hamcrest" path="external/hamcrest" remote="aosp" groups="pdk-cw-fs,pdk-fs" clone-depth="1"/>
-  <project name="platform/external/testng" path="external/testng" remote="aosp" groups="pdk-cw-fs,pdk-fs" clone-depth="1"/>
-  <project name="platform/external/doclava" path="external/doclava" remote="aosp" groups="pdk-cw-fs,pdk-fs" clone-depth="1"/>
-  <project name="platform/external/jsilver" path="external/jsilver" remote="aosp" groups="pdk-cw-fs,pdk-fs" clone-depth="1"/>
-  <project name="platform/external/googletest" path="external/googletest" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/external/jazzer-api" path="external/jazzer-api" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="tools/platform-compat" path="tools/platform-compat" remote="aosp" groups="pdk-cw-fs,pdk-fs,pdk" clone-depth="1"/>
-  <project name="platform/tools/metalava" path="tools/metalava" remote="aosp" groups="pdk,tools" clone-depth="1"/>
-  <project name="platform/external/tinyalsa" path="external/tinyalsa" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/external/zopfli" path="external/zopfli" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/external/downloader" path="external/downloader" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/external/mobile-data-download" path="external/mobile-data-download" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/external/oj-libjdwp" path="external/oj-libjdwp" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/external/dynamic_depth" path="external/dynamic_depth" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/external/image_io" path="external/image_io" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/test/app_compat/csuite" path="test/app_compat/csuite" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/external/pigweed" path="external/pigweed" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/external/exoplayer" path="external/exoplayer" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/external/obex" path="external/obex" remote="aosp" groups="pdk-cw-fs,pdk-fs" clone-depth="1"/>
-  <project name="platform/external/icing" path="external/icing" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/external/apache-velocity-engine" path="external/apache-velocity-engine" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/external/owasp/java-encoder" path="external/owasp/java-encoder" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/external/nist-sip" path="external/nist-sip" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/external/ims" path="external/ims" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/external/marisa-trie" path="external/marisa-trie" remote="aosp" groups="pdk" clone-depth="1"/>
 </manifest>
-
-

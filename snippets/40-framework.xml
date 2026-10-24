@@ -3,43 +3,13 @@
   <project name="android_frameworks_base" path="frameworks/base" remote="ag-sdc" revision="14-21.0-framework-only" groups="pdk-cw-fs,pdk-fs,sysui-studio"/>
   <project name="android_frameworks_native" path="frameworks/native" remote="los-tv-x86" groups="pdk"/>
   <project name="platform/frameworks/hardware/interfaces" path="frameworks/hardware/interfaces" remote="aosp" groups="pdk,sysui-studio"/>
-  <project name="platform/frameworks/layoutlib" path="frameworks/layoutlib" remote="aosp" groups="pdk-cw-fs,pdk-fs"/>
   <project name="platform/frameworks/libs/modules-utils" path="frameworks/libs/modules-utils" remote="aosp" groups="pdk-cw-fs,pdk-fs,sysui-studio"/>
-  <project name="LineageOS/android_frameworks_libs_systemui" path="frameworks/libs/systemui" groups="pdk-cw-fs,pdk-fs,sysui-studio"/>
   <project name="platform/frameworks/minikin" path="frameworks/minikin" remote="aosp" groups="pdk-cw-fs,pdk-fs"/>
-  <project name="platform/frameworks/opt/bitmap" path="frameworks/opt/bitmap" remote="aosp" groups="pdk-fs"/>
-  <project name="platform/frameworks/opt/net/ethernet" path="frameworks/opt/net/ethernet" remote="aosp" groups="pdk-fs"/>
-  <project name="platform/frameworks/opt/net/ims" path="frameworks/opt/net/ims" remote="aosp" groups="frameworks_ims,pdk-cw-fs,pdk-fs"/>
-  <project name="platform/frameworks/opt/net/voip" path="frameworks/opt/net/voip" remote="aosp" groups="pdk-cw-fs,pdk-fs"/>
-  <project name="platform/frameworks/opt/net/wifi" path="frameworks/opt/net/wifi" remote="aosp" groups="pdk,sysui-studio"/>
-  <project name="platform/frameworks/opt/setupwizard" path="frameworks/opt/setupwizard" remote="aosp" groups="pdk-cw-fs,pdk-fs"/>
   <project name="LineageOS/android_frameworks_opt_telephony" path="frameworks/opt/telephony" groups="pdk"/>
   <project name="platform/frameworks/proto_logging" path="frameworks/proto_logging" remote="aosp" groups="pdk-cw-fs,pdk-fs,sysui-studio"/>
   <project name="aidl_packages_modules_Connectivity" path="packages/modules/Connectivity" remote="ag-sdc" revision="34" groups="pdk-cw-fs,pdk-fs"/>
   <project name="aidl_packages_modules_Wifi" path="packages/modules/Wifi" remote="ag-sdc" revision="34" groups="pdk-cw-fs,pdk-fs,sysui-studio"/>
   <project name="LineageOS/android_packages_modules_Permission" path="packages/modules/Permission" groups="pdk-cw-fs,pdk-fs"/>
-  <project name="platform/packages/modules/OnDevicePersonalization" path="packages/modules/OnDevicePersonalization" remote="aosp" groups="pdk-cw-fs,pdk-fs" clone-depth="1"/>
   <project name="LineageOS/android_packages_modules_common" path="packages/modules/common" groups="pdk-cw-fs,pdk-fs"/>
-  <project name="platform/packages/modules/StatsD" path="packages/modules/StatsD" remote="aosp" groups="pdk-cw-fs,pdk-fs"/>
-  <project name="LineageOS/android_packages_modules_CellBroadcastService" path="packages/modules/CellBroadcastService" groups="pdk"/>
-  <project name="platform/packages/modules/ExtServices" path="packages/modules/ExtServices" remote="aosp" groups="pdk-cw-fs,pdk-fs"/>
-  <project name="platform/packages/modules/IPsec" path="packages/modules/IPsec" remote="aosp" groups="pdk"/>
   <project name="aidl_packages_modules_Media" path="packages/modules/Media" remote="ag-sdc" revision="34" groups="pdk"/>
-  <project name="platform/packages/modules/ModuleMetadata" path="packages/modules/ModuleMetadata" remote="aosp" groups="pdk"/>
-  <project name="platform/packages/modules/SdkExtensions" path="packages/modules/SdkExtensions" remote="aosp" groups="pdk-cw-fs,pdk-fs"/>
-  <project name="platform/packages/modules/Scheduling" path="packages/modules/Scheduling" remote="aosp" groups="pdk-cw-fs,pdk-fs"/>
-  <project name="platform/packages/modules/Telephony" path="packages/modules/Telephony" remote="aosp" groups="pdk-cw-fs,pdk-fs"/>
-  <project name="platform/packages/modules/AdServices" path="packages/modules/AdServices" remote="aosp" groups="pdk-cw-fs,pdk-fs,sysui-studio" clone-depth="1"/>
-  <project name="platform/packages/modules/Uwb" path="packages/modules/Uwb" remote="aosp" groups="pdk-cw-fs,pdk-fs" clone-depth="1"/>
-  <project name="platform/packages/modules/AppSearch" path="packages/modules/AppSearch" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/packages/modules/ConfigInfrastructure" path="packages/modules/ConfigInfrastructure" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/packages/modules/DeviceLock" path="packages/modules/DeviceLock" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/packages/modules/HealthFitness" path="packages/modules/HealthFitness" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/packages/modules/Gki" path="packages/modules/Gki" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="LineageOS/android_lineage-sdk" path="lineage-sdk" remote="github" revision="lineage-21.0"/>
-  <project name="platform/packages/modules/Profiling" path="packages/modules/Profiling" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/packages/modules/RemoteKeyProvisioning" path="packages/modules/RemoteKeyProvisioning" remote="aosp" groups="pdk-cw-fs,pdk-fs" clone-depth="1"/>
-  <project name="platform/frameworks/opt/calendar" path="frameworks/opt/calendar" remote="aosp" groups="pdk-cw-fs,pdk-fs" clone-depth="1"/>
-  <project name="platform/frameworks/opt/vcard" path="frameworks/opt/vcard" remote="aosp" groups="pdk-cw-fs,pdk-fs" clone-depth="1"/>
-  <project name="platform/frameworks/libs/service_entitlement" path="frameworks/libs/service_entitlement" remote="aosp" groups="pdk" clone-depth="1"/>
 </manifest>
