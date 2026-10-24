@@ -89,7 +89,11 @@
   <project name="prebuilts_target_libhardware" path="prebuilts/target/hardware/libhardware" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_libprocinfo" path="prebuilts/target/system/libprocinfo" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_libziparchive" path="prebuilts/target/system/libziparchive" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_libartpalette" path="prebuilts/target/system/libartpalette" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_pcre" path="prebuilts/target/external/pcre" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_libpng" path="prebuilts/target/external/libpng" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_brotli" path="prebuilts/target/external/brotli" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_jsr330" path="prebuilts/target/external/jsr330" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_core" path="prebuilts/target/system/core" remote="ag-sdc-ci" revision="34" groups="pdk">
     <linkfile src="fastboot" dest="system/core/fastboot"/>
   </project>
