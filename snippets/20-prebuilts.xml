@@ -43,6 +43,9 @@
   <project name="prebuilts_libcxx" path="prebuilts/external/libcxx" remote="ag-sdc-ci" revision="34-r510928" groups="pdk">
     <linkfile src="." dest="external/libcxx"/>
   </project>
+  <project name="prebuilts_libcxxabi" path="prebuilts/external/libcxxabi" remote="ag-sdc-ci" revision="34-r510928" groups="pdk">
+    <linkfile src="." dest="external/libcxxabi"/>
+  </project>
   <project name="prebuilts_target_harfbuzz_ng" path="prebuilts/target/external/harfbuzz_ng" remote="ag-sdc-ci" revision="32" groups="pdk"/>
   <project name="prebuilts_host_apache-commons-io" path="prebuilts/host/external/apache-commons-io" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
   <project name="prebuilts_host_apache-commons-lang" path="prebuilts/host/external/apache-commons-lang" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
@@ -62,6 +65,7 @@
   <project name="prebuilts_host_objenesis" path="prebuilts/host/external/objenesis" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
   <project name="prebuilts_host_ow2-asm" path="prebuilts/host/external/ow2-asm" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
   <project name="prebuilts_host_xz-java" path="prebuilts/host/external/xz-java" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
+  <project name="prebuilts_host_jarjar" path="prebuilts/host/external/jarjar" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
   <project name="prebuilts_target_libchrome" path="prebuilts/target/hardware/libchrome" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_libevent" path="prebuilts/target/external/libevent" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_modp_b64" path="prebuilts/target/external/modp_b64" remote="ag-sdc-ci" revision="34" groups="pdk"/>
@@ -257,6 +261,14 @@
   <project name="prebuilts_target_scudo" path="prebuilts/target/external/scudo" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_libjpeg-turbo" path="prebuilts/target/external/libjpeg-turbo" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_selinux" path="prebuilts/target/external/selinux" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_apache-http" path="prebuilts/target/external/apache-http" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_ksoap2" path="prebuilts/target/external/ksoap2" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_libmonet" path="prebuilts/target/external/libmonet" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_libutf" path="prebuilts/target/external/libutf" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_skia" path="prebuilts/target/external/skia" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_kotlinc" path="prebuilts/target/external/kotlinc" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_setupcompat" path="prebuilts/target/external/setupcompat" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_setupdesign" path="prebuilts/target/external/setupdesign" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <!-- Framework Extractive APEX Prebuilts -->
   <project name="prebuilts_target_framework_extras" path="prebuilts/target/framework/system/extras" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_framework_security" path="prebuilts/target/framework/system/security" remote="ag-sdc-ci" revision="34" groups="pdk"/>

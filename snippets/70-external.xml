@@ -1,19 +1,15 @@
 <?xml version="1.0" ?>
 <manifest>
-  <project name="platform/external/libcxxabi" path="external/libcxxabi" remote="aosp" groups="pdk"/>
   <project name="platform/external/libxml2" path="external/libxml2" remote="aosp" groups="libxml2,pdk"/>
-  <project name="LineageOS/android_external_skia" path="external/skia" groups="pdk,qcom_msm8x26"/>
   <project name="platform/external/libpng" path="external/libpng" remote="aosp" groups="pdk"/>
   <project name="platform/external/brotli" path="external/brotli" remote="aosp" groups="pdk"/>
   <project name="platform/external/jsr330" path="external/jsr330" remote="aosp" groups="pdk"/>
-  <project name="platform/external/kotlinc" path="external/kotlinc" remote="aosp" groups="pdk"/>
   <project name="platform/external/go-cmp" path="external/go-cmp" remote="aosp" groups="pdk"/>
   <project name="platform/external/golang-protobuf" path="external/golang-protobuf" remote="aosp" groups="pdk"/>
   <project name="platform/external/starlark-go" path="external/starlark-go" remote="aosp" groups="pdk"/>
   <project name="platform/external/spdx-tools" path="external/spdx-tools" remote="aosp" groups="pdk"/>
   <project name="toolchain/pgo-profiles" path="toolchain/pgo-profiles" remote="aosp" groups="pdk"/>
   <project name="platform/external/bazel-skylib" path="external/bazel-skylib" remote="aosp" groups="pdk"/>
-  <project name="platform/external/jarjar" path="external/jarjar" remote="aosp" groups="pdk"/>
   <project name="platform/external/junit" path="external/junit" remote="aosp" groups="pdk-cw-fs,pdk-fs" clone-depth="1"/>
   <project name="platform/external/truth" path="external/truth" remote="aosp" groups="pdk-cw-fs,pdk-fs" clone-depth="1"/>
   <project name="platform/external/hamcrest" path="external/hamcrest" remote="aosp" groups="pdk-cw-fs,pdk-fs" clone-depth="1"/>
@@ -27,7 +23,6 @@
   <project name="platform/external/perfetto" path="external/perfetto" remote="aosp" groups="pdk,sysui-studio" clone-depth="1"/>
   <project name="platform/external/tinyalsa" path="external/tinyalsa" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/zopfli" path="external/zopfli" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/external/apache-http" path="external/apache-http" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/downloader" path="external/downloader" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/mobile-data-download" path="external/mobile-data-download" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/oj-libjdwp" path="external/oj-libjdwp" remote="aosp" groups="pdk" clone-depth="1"/>
@@ -42,11 +37,6 @@
   <project name="platform/external/owasp/java-encoder" path="external/owasp/java-encoder" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/nist-sip" path="external/nist-sip" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/ims" path="external/ims" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/external/setupcompat" path="external/setupcompat" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/external/setupdesign" path="external/setupdesign" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/external/ksoap2" path="external/ksoap2" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/external/libmonet" path="external/libmonet" remote="aosp" groups="pdk" clone-depth="1"/>
-  <project name="platform/external/libutf" path="external/libutf" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/external/marisa-trie" path="external/marisa-trie" remote="aosp" groups="pdk" clone-depth="1"/>
 </manifest>
 
