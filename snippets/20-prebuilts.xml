@@ -91,6 +91,7 @@
   <project name="prebuilts_target_libziparchive" path="prebuilts/target/system/libziparchive" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_libartpalette" path="prebuilts/target/system/libartpalette" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_libfmq" path="prebuilts/target/system/libfmq" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_server_configurable_flags" path="prebuilts/target/system/server_configurable_flags" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_pcre" path="prebuilts/target/external/pcre" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_libpng" path="prebuilts/target/external/libpng" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_brotli" path="prebuilts/target/external/brotli" remote="ag-sdc-ci" revision="34" groups="pdk"/>
