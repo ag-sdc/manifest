@@ -227,7 +227,6 @@
   <project name="platform/external/rust/crates/rusqlite" path="external/rust/crates/rusqlite" remote="aosp" groups="pdk" clone-depth="1" />
   <project name="platform/external/rust/crates/rustc-hash" path="external/rust/crates/rustc-hash" remote="aosp" groups="pdk" clone-depth="1" />
   <project name="platform/external/rust/crates/rustc-demangle" path="external/rust/crates/rustc-demangle" remote="aosp" groups="pdk" clone-depth="1" />
-  <project name="platform/external/rust/crates/rustc-demangle-capi" path="external/rust/crates/rustc-demangle-capi" remote="aosp" groups="pdk" clone-depth="1" />
   <project name="platform/external/rust/crates/rustversion" path="external/rust/crates/rustversion" remote="aosp" groups="pdk" clone-depth="1" />
   <project name="platform/external/rust/crates/ryu" path="external/rust/crates/ryu" remote="aosp" groups="pdk" clone-depth="1" />
   <project name="platform/external/rust/crates/same-file" path="external/rust/crates/same-file" remote="aosp" groups="pdk" clone-depth="1" />
