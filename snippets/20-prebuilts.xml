@@ -254,7 +254,9 @@
   <project name="prebuilts_target_apache-http" path="prebuilts/target/external/apache-http" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_libmonet" path="prebuilts/target/external/libmonet" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_libutf" path="prebuilts/target/external/libutf" remote="ag-sdc-ci" revision="34" groups="pdk"/>
-  <project name="prebuilts_target_skia" path="prebuilts/target/external/skia" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_skia" path="prebuilts/target/external/skia" remote="ag-sdc-ci" revision="34" groups="pdk">
+    <linkfile src="." dest="external/skia"/>
+  </project>
   <project name="prebuilts_target_perfetto" path="prebuilts/target/external/perfetto" remote="ag-sdc-ci" revision="34" groups="pdk">
     <linkfile src="." dest="external/perfetto"/>
   </project>
