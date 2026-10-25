@@ -8,7 +8,6 @@
   <project name="LineageOS/android_system_libhidl" path="system/libhidl" groups="pdk,sysui-studio"/>
   <project name="platform/system/libsysprop" path="system/libsysprop" remote="aosp" groups="pdk"/>
   <project name="platform/system/unwinding" path="system/unwinding" remote="aosp" groups="pdk"/>
-  <project name="platform/system/librustutils" path="system/librustutils" remote="aosp" groups="pdk"/>
   <project name="platform/libnativehelper" path="libnativehelper" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="aidl_system_core_storaged" path="system/core/storaged" remote="ag-sdc" revision="34" groups="pdk"/>
 </manifest>
