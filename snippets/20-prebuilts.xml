@@ -90,6 +90,7 @@
   <project name="prebuilts_target_libbase" path="prebuilts/target/system/libbase" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_timezone" path="prebuilts/target/system/timezone" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_resolv" path="prebuilts/target/packages/modules/DnsResolver" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_adbd" path="prebuilts/target/packages/modules/adb" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_fmtlib" path="prebuilts/target/external/fmtlib" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
   <project name="prebuilts_target_libncurses" path="prebuilts/target/external/libncurses" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
   <project name="prebuilts_target_mesa" path="prebuilts/target/external/mesa" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
@@ -229,6 +230,8 @@
   <project name="prebuilts_target_scrypt" path="prebuilts/target/external/scrypt" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_double-conversion" path="prebuilts/target/external/double-conversion" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_jsmn" path="prebuilts/target/external/jsmn" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_federated-compute" path="prebuilts/target/external/federated-compute" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_tensorflow" path="prebuilts/target/external/tensorflow" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_libtextclassifier" path="prebuilts/target/external/libtextclassifier" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_pdfium" path="prebuilts/target/external/pdfium" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_slf4j" path="prebuilts/target/external/slf4j" remote="ag-sdc-ci" revision="34" groups="pdk"/>
@@ -249,7 +252,6 @@
   <project name="prebuilts_target_libjpeg-turbo" path="prebuilts/target/external/libjpeg-turbo" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_selinux" path="prebuilts/target/external/selinux" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_apache-http" path="prebuilts/target/external/apache-http" remote="ag-sdc-ci" revision="34" groups="pdk"/>
-  <project name="prebuilts_target_ksoap2" path="prebuilts/target/external/ksoap2" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_libmonet" path="prebuilts/target/external/libmonet" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_libutf" path="prebuilts/target/external/libutf" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_skia" path="prebuilts/target/external/skia" remote="ag-sdc-ci" revision="34" groups="pdk"/>
