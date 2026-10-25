@@ -260,7 +260,6 @@
   <project name="prebuilts_target_perfetto" path="prebuilts/target/external/perfetto" remote="ag-sdc-ci" revision="34" groups="pdk">
     <linkfile src="." dest="external/perfetto"/>
   </project>
-  <project name="prebuilts_target_kotlinc" path="prebuilts/target/external/kotlinc" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_setupcompat" path="prebuilts/target/external/setupcompat" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_setupdesign" path="prebuilts/target/external/setupdesign" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <!-- Framework Extractive APEX Prebuilts -->

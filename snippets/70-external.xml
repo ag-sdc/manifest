@@ -4,5 +4,6 @@
   <project name="platform/external/go-cmp" path="external/go-cmp" remote="aosp" groups="pdk"/>
   <project name="platform/external/golang-protobuf" path="external/golang-protobuf" remote="aosp" groups="pdk"/>
   <project name="platform/external/starlark-go" path="external/starlark-go" remote="aosp" groups="pdk"/>
+  <project name="platform/external/kotlinc" path="external/kotlinc" remote="aosp" groups="pdk"/>
   <project name="tools/platform-compat" path="tools/platform-compat" remote="aosp" groups="pdk-cw-fs,pdk-fs,pdk" clone-depth="1"/>
 </manifest>
