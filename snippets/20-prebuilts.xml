@@ -77,6 +77,7 @@
   <project name="prebuilts_target_server_configurable_flags" path="prebuilts/target/system/server_configurable_flags" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_libvintf" path="prebuilts/target/system/libvintf" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_libmeminfo" path="prebuilts/target/system/libmeminfo" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_system_libsysprop" path="prebuilts/target/system/libsysprop" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_system-media" path="prebuilts/target/system/media" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_pcre" path="prebuilts/target/external/pcre" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_libpng" path="prebuilts/target/external/libpng" remote="ag-sdc-ci" revision="34" groups="pdk"/>
