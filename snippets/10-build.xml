@@ -14,6 +14,5 @@
     <linkfile src="root.bp" dest="Android.bp"/>
     <linkfile src="bootstrap.bash" dest="bootstrap.bash"/>
   </project>
-  <project name="platform/dalvik" path="dalvik" remote="aosp" groups="pdk-cw-fs,pdk-fs"/>
   <project name="tests_stubs" path="tests_stubs" remote="ag-sdc" revision="14-21.0-framework-only"/>
 </manifest>

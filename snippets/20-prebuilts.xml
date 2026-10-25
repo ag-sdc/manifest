@@ -8,14 +8,12 @@
   <project name="prebuilts_host_jdk17" path="prebuilts/host/jdk/jdk17" remote="ag-sdc-ci" revision="universal" groups="pdk">
     <linkfile src="." dest="prebuilts/jdk/jdk17"/>
   </project>
-  <project name="platform/prebuilts/jdk/jdk11" path="prebuilts/jdk/jdk11" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="prebuilts_host_jdk8" path="prebuilts/host/jdk/jdk8" remote="ag-sdc-ci" revision="universal" groups="pdk">
     <linkfile src="." dest="prebuilts/jdk/jdk8"/>
   </project>
   <project name="platform/prebuilts/misc" path="prebuilts/misc" remote="aosp" groups="pdk,sysui-studio" clone-depth="1"/>
   <project name="platform/prebuilts/ndk" path="prebuilts/ndk" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/prebuilts/sdk" path="prebuilts/sdk" remote="aosp" groups="pdk,sysui-studio" clone-depth="1"/>
-  <project name="platform/prebuilts/vndk/v34" path="prebuilts/vndk/v34" remote="aosp" groups="pdk" clone-depth="1"/>
   <project name="platform/prebuilts/go/linux-x86" path="prebuilts/go/linux-x86" remote="aosp" groups="pdk,sysui-studio" clone-depth="1"/>
   <project name="platform/prebuilts/tools" path="prebuilts/tools" remote="aosp" groups="pdk,tools,sysui-studio" clone-depth="1"/>
   <project name="platform/prebuilts/r8" path="prebuilts/r8" remote="aosp" groups="pdk" clone-depth="1"/>
@@ -90,17 +88,11 @@
   <project name="prebuilts_target_libbase" path="prebuilts/target/system/libbase" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_timezone" path="prebuilts/target/system/timezone" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_resolv" path="prebuilts/target/packages/modules/DnsResolver" remote="ag-sdc-ci" revision="34" groups="pdk"/>
-  <project name="prebuilts_target_adbd" path="prebuilts/target/packages/modules/adb" remote="ag-sdc-ci" revision="34" groups="pdk"/>
-  <project name="prebuilts_target_neuralnetworks" path="prebuilts/target/packages/modules/NeuralNetworks" remote="ag-sdc-ci" revision="34" groups="pdk"/>
-  <project name="prebuilts_target_swcodec" path="prebuilts/target/packages/modules/swcodec" remote="ag-sdc-ci" revision="34" groups="pdk"/>
-  <project name="prebuilts_target_geotz" path="prebuilts/target/packages/modules/GeoTZ" remote="ag-sdc-ci" revision="34" groups="pdk"/>
-  <project name="prebuilts_target_vendor_graphics_mesa_links" path="prebuilts/target/vendor_graphics_mesa_links" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
   <project name="prebuilts_target_fmtlib" path="prebuilts/target/external/fmtlib" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
   <project name="prebuilts_target_libncurses" path="prebuilts/target/external/libncurses" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
   <project name="prebuilts_target_mesa" path="prebuilts/target/external/mesa" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
   <project name="prebuilts_target_efibootmgr" path="prebuilts/target/external/efibootmgr" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
   <project name="prebuilts_target_hcitools" path="prebuilts/target/external/hcitools" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
-  <project name="prebuilts_target_kernel-zenith" path="kernel/prebuilts" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
 
   <!-- gap shadows built 2026-10-14 (external/libbrillo, etc.) all rev 34 -->
   <project name="prebuilts_libbrillo" path="prebuilts/external/libbrillo" remote="ag-sdc-ci" revision="34" groups="pdk"/>
@@ -201,7 +193,6 @@
   <project name="prebuilts_target_apache-commons-compress" path="prebuilts/target/external/apache-commons-compress" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_kotlinpoet" path="prebuilts/target/external/kotlinpoet" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <!-- Wave 3: Advanced system & native libraries -->
-  <project name="prebuilts_target_avb" path="prebuilts/target/external/avb" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_OpenCSD" path="prebuilts/target/external/OpenCSD" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_sonivox" path="prebuilts/target/external/sonivox" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_google-benchmark" path="prebuilts/target/external/google-benchmark" remote="ag-sdc-ci" revision="34" groups="pdk"/>
@@ -235,17 +226,11 @@
   <project name="prebuilts_target_scrypt" path="prebuilts/target/external/scrypt" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_double-conversion" path="prebuilts/target/external/double-conversion" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_jsmn" path="prebuilts/target/external/jsmn" remote="ag-sdc-ci" revision="34" groups="pdk"/>
-  <project name="prebuilts_target_libpcap" path="prebuilts/target/external/libpcap" remote="ag-sdc-ci" revision="34" groups="pdk"/>
-  <project name="prebuilts_target_ffmpeg" path="prebuilts/target/external/ffmpeg" remote="ag-sdc-ci" revision="34" groups="pdk"/>
-  <project name="prebuilts_target_federated-compute" path="prebuilts/target/external/federated-compute" remote="ag-sdc-ci" revision="34" groups="pdk"/>
-  <project name="prebuilts_target_tensorflow" path="prebuilts/target/external/tensorflow" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_libtextclassifier" path="prebuilts/target/external/libtextclassifier" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_pdfium" path="prebuilts/target/external/pdfium" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_slf4j" path="prebuilts/target/external/slf4j" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_lottie" path="prebuilts/target/external/lottie" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_zxing" path="prebuilts/target/external/zxing" remote="ag-sdc-ci" revision="34" groups="pdk"/>
-  <project name="prebuilts_target_openthread" path="prebuilts/target/external/openthread" remote="ag-sdc-ci" revision="34" groups="pdk"/>
-  <project name="prebuilts_target_ot-br-posix" path="prebuilts/target/external/ot-br-posix" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_tflite-support" path="prebuilts/target/external/tflite-support" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_cbor-java" path="prebuilts/target/external/cbor-java" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_sqlite" path="prebuilts/external/sqlite" remote="ag-sdc-ci" revision="34" groups="pdk"/>
