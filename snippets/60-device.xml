@@ -1,4 +1,4 @@
 <?xml version="1.0" ?>
 <manifest>
-  <project name="android_vendor_lineage" path="vendor/lineage" remote="los-tv-x86"/>
+  <project name="vendor_framework" path="vendor/lineage" remote="ag-sdc" revision="14-21.0-framework-only"/>
 </manifest>
