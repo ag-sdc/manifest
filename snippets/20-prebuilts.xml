@@ -174,6 +174,7 @@
   <project name="prebuilts_target_pffft" path="prebuilts/target/external/pffft" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_rnnoise" path="prebuilts/target/external/rnnoise" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_rustc-demangle-capi" path="prebuilts/target/external/rust/crates/rustc-demangle-capi" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_cxx" path="prebuilts/target/external/rust/cxx" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_speex" path="prebuilts/target/external/speex" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_tinyxml2" path="prebuilts/target/external/tinyxml2" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_virglrenderer" path="prebuilts/target/external/virglrenderer" remote="ag-sdc-ci" revision="34" groups="pdk"/>

@@ -325,7 +325,6 @@
   <project name="platform/external/rust/crates/zip" path="external/rust/crates/zip" remote="aosp" groups="pdk" clone-depth="1" />
   <project name="platform/external/rust/autocxx" path="external/rust/autocxx" remote="aosp" groups="pdk" clone-depth="1" />
   <project name="platform/external/rust/beto-rust" path="external/rust/beto-rust" remote="aosp" groups="pdk" clone-depth="1" />
-  <project name="platform/external/rust/cxx" path="external/rust/cxx" remote="aosp" groups="pdk" clone-depth="1" />
   <project name="platform/external/rust/pica" path="external/rust/pica" remote="aosp" groups="pdk" clone-depth="1" />
   <project name="packages_modules_Connectivity_rust" path="packages/modules/Connectivity_rust" remote="ag-sdc" revision="34" groups="pdk"/>
   <project name="external_boringssl_rust" path="external/boringssl_rust" remote="ag-sdc" revision="34" groups="pdk"/>
