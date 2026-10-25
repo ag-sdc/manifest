@@ -79,6 +79,7 @@
   <project name="prebuilts_target_libmeminfo" path="prebuilts/target/system/libmeminfo" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_system_libsysprop" path="prebuilts/target/system/libsysprop" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_system-media" path="prebuilts/target/system/media" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_unwinding" path="prebuilts/target/system/unwinding" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_pcre" path="prebuilts/target/external/pcre" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_libpng" path="prebuilts/target/external/libpng" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_brotli" path="prebuilts/target/external/brotli" remote="ag-sdc-ci" revision="34" groups="pdk"/>
