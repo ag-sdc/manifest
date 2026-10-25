@@ -1,8 +1,6 @@
 <?xml version="1.0" ?>
 <manifest>
   <project name="platform_system_tools_aidl" path="system/tools/aidl" remote="ag-sdc" revision="14-21.0-framework-only" groups="pdk"/>
-  <project name="platform/system/tools/sysprop" path="system/tools/sysprop" remote="aosp" groups="pdk"/>
-  <project name="platform/system/tools/xsdc" path="system/tools/xsdc" remote="aosp" groups="pdk"/>
   <project name="LineageOS/android_system_libhidl" path="system/libhidl" groups="pdk,sysui-studio"/>
   <project name="aidl_system_core_storaged" path="system/core/storaged" remote="ag-sdc" revision="34" groups="pdk"/>
 </manifest>
