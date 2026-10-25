@@ -8,6 +8,7 @@
   <project name="prebuilts_host_tools" path="prebuilts/host/tools" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
   <project name="prebuilts_host_sysprop" path="prebuilts/host/sysprop" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
   <project name="prebuilts_host_xsdc" path="prebuilts/host/xsdc" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
+  <project name="prebuilts_host_apex" path="prebuilts/host/apex" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
   <project name="platform/prebuilts/build-tools" path="prebuilts/build-tools" remote="aosp" groups="pdk,sysui-studio" clone-depth="1"/>
   <project name="platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8" path="prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8" remote="aosp" groups="pdk,linux" clone-depth="1"/>
   <project name="prebuilts_host_jdk17" path="prebuilts/host/jdk/jdk17" remote="ag-sdc-ci" revision="universal" groups="pdk">
