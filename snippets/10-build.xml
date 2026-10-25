@@ -15,6 +15,5 @@
     <linkfile src="bootstrap.bash" dest="bootstrap.bash"/>
   </project>
   <project name="platform/dalvik" path="dalvik" remote="aosp" groups="pdk-cw-fs,pdk-fs"/>
-  <project name="LineageOS/android_libcore" path="libcore" groups="pdk"/>
   <project name="tests_stubs" path="tests_stubs" remote="ag-sdc" revision="14-21.0-framework-only"/>
 </manifest>
