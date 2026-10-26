@@ -10,7 +10,7 @@
   </project>
   <project name="platform/build/blueprint" path="build/blueprint" remote="aosp" groups="pdk,tradefed"/>
   <project name="LineageOS/android_build_release" path="build/release" groups="pdk,tradefed"/>
-  <project name="android_build_soong" path="build/soong" remote="los-tv-x86" groups="pdk,tradefed">
+  <project name="android_build_soong" path="build/soong" remote="ag-sdc" revision="14-21.0-framework-only" groups="pdk,tradefed">
     <linkfile src="root.bp" dest="Android.bp"/>
     <linkfile src="bootstrap.bash" dest="bootstrap.bash"/>
   </project>
