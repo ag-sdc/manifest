@@ -160,7 +160,6 @@
   <project name="prebuilts_host_openscreen" path="prebuilts/host/external/openscreen" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
   <project name="prebuilts_target_bouncycastle" path="prebuilts/target/external/bouncycastle" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_conscrypt" path="prebuilts/target/external/conscrypt" remote="ag-sdc-ci" revision="34" groups="pdk"/>
-  <project name="prebuilts_host_apksig" path="prebuilts/host/external/apksig" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
   <project name="prebuilts_host_signapk" path="prebuilts/host/external/signapk" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
   <!-- Wave 1: 26 C/C++ prebuilt target libraries -->
   <project name="prebuilts_target_aac" path="prebuilts/target/external/aac" remote="ag-sdc-ci" revision="34" groups="pdk"/>
