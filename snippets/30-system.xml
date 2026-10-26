@@ -1,5 +1,4 @@
 <?xml version="1.0" ?>
 <manifest>
-  <project name="LineageOS/android_system_libhidl" path="system/libhidl" groups="pdk,sysui-studio"/>
   <project name="aidl_system_core_storaged" path="system/core/storaged" remote="ag-sdc" revision="34" groups="pdk"/>
 </manifest>
