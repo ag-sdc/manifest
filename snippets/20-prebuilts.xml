@@ -288,5 +288,6 @@
   <project name="prebuilts_target_framework_apex" path="prebuilts/target/framework/system/apex" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_framework_hidl" path="prebuilts/target/framework/system/tools/hidl" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_framework_netd" path="prebuilts/target/framework/system/netd" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_framework-base" path="prebuilts/target/framework/framework-base" remote="ag-sdc-ci" revision="34" groups="pdk"/>
 </manifest>
 
