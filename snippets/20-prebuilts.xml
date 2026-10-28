@@ -292,5 +292,6 @@
   <project name="prebuilts_target_dmesgd" path="prebuilts/target/system/dmesgd" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_liblights" path="prebuilts/target/hardware/liblights" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_libva-utils" path="prebuilts/target/external/libva-utils" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_permission" path="prebuilts/target/packages/modules/Permission" remote="ag-sdc-ci" revision="34" groups="pdk"/>
 </manifest>
 
