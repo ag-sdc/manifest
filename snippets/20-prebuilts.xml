@@ -144,7 +144,7 @@
   <project name="prebuilts_target_cpu_features" path="prebuilts/target/external/cpu_features" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_vixl" path="prebuilts/external/vixl" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_host_bumble" path="prebuilts/host/external/bumble" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
-  <project name="prebuilts_host_nullaway" path="external/nullaway" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_host_nullaway" path="external/nullaway" remote="ag-sdc-ci" revision="universal" groups="pdk"/>
   <project name="prebuilts_target_google-breakpad" path="prebuilts/target/external/google-breakpad" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_tremolo" path="prebuilts/target/external/tremolo" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_libprotobuf-mutator" path="prebuilts/target/external/libprotobuf-mutator" remote="ag-sdc-ci" revision="34" groups="pdk"/>
