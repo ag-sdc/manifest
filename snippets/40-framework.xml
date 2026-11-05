@@ -2,7 +2,7 @@
 <manifest>
   <project name="android_frameworks_base" path="frameworks/base" remote="ag-sdc" revision="14-21.0-framework-only" groups="pdk-cw-fs,pdk-fs,sysui-studio"/>
   <project name="android_frameworks_native" path="frameworks/native" remote="los-tv-x86" groups="pdk"/>
-  <project name="platform/frameworks/hardware/interfaces" path="frameworks/hardware/interfaces" remote="aosp" groups="pdk,sysui-studio"/>
+  <project name="android_frameworks_hardware_interfaces" path="frameworks/hardware/interfaces" remote="ag-sdc" revision="lineage-21.0" groups="pdk,sysui-studio"/>
   <project name="platform/frameworks/libs/modules-utils" path="frameworks/libs/modules-utils" remote="aosp" groups="pdk-cw-fs,pdk-fs,sysui-studio"/>
   <project name="platform/frameworks/minikin" path="frameworks/minikin" remote="aosp" groups="pdk-cw-fs,pdk-fs"/>
   <project name="LineageOS/android_frameworks_opt_telephony" path="frameworks/opt/telephony" groups="pdk"/>
