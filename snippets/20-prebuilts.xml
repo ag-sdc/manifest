@@ -295,5 +295,9 @@
   <project name="prebuilts_target_libva-utils" path="prebuilts/target/external/libva-utils" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_permission" path="prebuilts/target/packages/modules/Permission" remote="ag-sdc-ci" revision="34" groups="pdk"/>
   <project name="prebuilts_target_connectivity" path="prebuilts/target/packages/modules/Connectivity" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_appsearch" path="prebuilts/target/packages/modules/AppSearch" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_healthfitness" path="prebuilts/target/packages/modules/HealthFitness" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_sdkext" path="prebuilts/target/packages/modules/SdkExtensions" remote="ag-sdc-ci" revision="34" groups="pdk"/>
+  <project name="prebuilts_target_adservices" path="prebuilts/target/packages/modules/AdServices" remote="ag-sdc-ci" revision="34" groups="pdk"/>
 </manifest>
 
