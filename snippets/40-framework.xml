@@ -4,7 +4,7 @@
   <project name="android_frameworks_native" path="frameworks/native" remote="los-tv-x86" groups="pdk"/>
   <project name="android_frameworks_hardware_interfaces" path="frameworks/hardware/interfaces" remote="ag-sdc" revision="lineage-21.0" groups="pdk,sysui-studio"/>
   <project name="platform/frameworks/libs/modules-utils" path="frameworks/libs/modules-utils" remote="aosp" groups="pdk-cw-fs,pdk-fs,sysui-studio"/>
-  <project name="platform/frameworks/libs/net" path="frameworks/libs/net" remote="aosp" groups="pdk-cw-fs,pdk-fs"/>
+  <project name="platform/frameworks/libs/net" path="frameworks/libs/net" remote="aosp" revision="refs/heads/android14-release" groups="pdk-cw-fs,pdk-fs"/>
   <project name="LineageOS/android_frameworks_libs_systemui" path="frameworks/libs/systemui" groups="pdk-cw-fs,pdk-fs"/>
   <project name="LineageOS/android_frameworks_opt_telephony" path="frameworks/opt/telephony" groups="pdk"/>
   <project name="platform/frameworks/proto_logging" path="frameworks/proto_logging" remote="aosp" groups="pdk-cw-fs,pdk-fs,sysui-studio"/>
